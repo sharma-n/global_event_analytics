@@ -10,12 +10,7 @@ The code here is an attempt to understand and showcase how massive global news d
 
 ## The GDELT Global Knowledge Graph
 The GDELT GKG begins on April 1, 2013, until today (22nd November 2019 at time of writing). The description of the information available is given in the table below. Look at the [GDELT GKG 1.0 Data Format Codebook](http://data.gdeltproject.org/documentation/GDELT-Global_Knowledge_Graph_Codebook.pdf) for more details.
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
-</style>
+
 <table class="tg">
   <tr>
     <th class="tg-c3ow" colspan="2"><span style="font-weight:bold">Tab Delimited Columns of GEDLT GKG Database</span></th>
@@ -91,7 +86,7 @@ The graphs below show the distribution of tone of the different articles publish
 [![Public Perception using Tone](Images/Tone.png)](https://public.tableau.com/views/gsdah547631g3y5sfet1qa54_15742305449410/Tone?:display_count=y&publish=yes&:origin=viz_share_link)
 
 #### Network of Countries
-THe visualization below shows the countries that are most often mentioned together. Since this graph can include a lot of information, you can select the country of your choice, and this will display the connections of the chosen country with other countries. The width and color of those countries depends on how often they are mentioned together. The thicker and darker color the line, the more times they have been mentioned together.
+The visualization below shows the countries that are most often mentioned together. Since this graph can include a lot of information, you can select the country of your choice, and this will display the connections of the chosen country with other countries. The width and color of those countries depends on how often they are mentioned together. The thicker and darker color the line, the more times they have been mentioned together.
 [![Network of Countries](Images/Country_Net.png)](https://public.tableau.com/views/gsdah547631g3y5sfet1qa54_15742305449410/Country_Net?:display_count=y&publish=yes&:origin=viz_share_link)
 
 #### Most mentioned cities and countries
