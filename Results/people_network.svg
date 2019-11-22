@@ -1,0 +1,2512 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="2027.0"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-1019.000000 -1011.000000 2027.000000 2028.000000" height="2028.0"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path fill="none" stroke-width="1.61"
+              d="M -392.493469,-84.295074 L -536.434265,-141.033630"
+              class="id_aareon_jefferson id_james_herren"
+              stroke-opacity="0.69803923" stroke="#fcd9d9"/>
+        <path fill="none" stroke-width="3.1399999"
+              d="M -392.493469,-84.295074 L -223.042999,-29.084984"
+              class="id_aareon_jefferson id_los_angeles"
+              stroke-opacity="0.69803923" stroke="#e788de"/>
+        <path fill="none" stroke-width="2.28"
+              d="M -392.493469,-84.295074 L -474.349518,203.609360"
+              class="id_aareon_jefferson id_rebecca_kendall"
+              stroke-opacity="0.69803923" stroke="#fcd9d9"/>
+        <path fill="none" stroke-width="7.0699997"
+              d="M 903.580383,-342.485077 L 495.200531,-674.766907"
+              class="id_abu_dhabi id_bubba_watson" stroke-opacity="0.69803923"
+              stroke="#f34263"/>
+        <path fill="none" stroke-width="7.0699997"
+              d="M 903.580383,-342.485077 L 409.213989,-299.342072"
+              class="id_abu_dhabi id_david_lingmerth"
+              stroke-opacity="0.69803923" stroke="#f34263"/>
+        <path fill="none" stroke-width="7.0699997"
+              d="M 903.580383,-342.485077 L 323.785583,-420.539185"
+              class="id_abu_dhabi id_dustin_johnson" stroke-opacity="0.69803923"
+              stroke="#f34263"/>
+        <path fill="none" stroke-width="7.0699997"
+              d="M 903.580383,-342.485077 L 454.579956,-157.967758"
+              class="id_abu_dhabi id_hideki_matsuyama"
+              stroke-opacity="0.69803923" stroke="#f34263"/>
+        <path fill="none" stroke-width="7.0699997"
+              d="M 903.580383,-342.485077 L 875.473083,-488.640686"
+              class="id_abu_dhabi id_jason_day" stroke-opacity="0.69803923"
+              stroke="#f34263"/>
+        <path fill="none" stroke-width="7.0699997"
+              d="M 903.580383,-342.485077 L 575.795349,-372.558380"
+              class="id_abu_dhabi id_jason_dufner" stroke-opacity="0.69803923"
+              stroke="#f34263"/>
+        <path fill="none" stroke-width="7.0699997"
+              d="M 903.580383,-342.485077 L 722.309448,-459.637634"
+              class="id_abu_dhabi id_jordan_spieth" stroke-opacity="0.69803923"
+              stroke="#f34263"/>
+        <path fill="none" stroke-width="7.0699997"
+              d="M 903.580383,-342.485077 L 738.885376,-307.046814"
+              class="id_abu_dhabi id_justin_rose" stroke-opacity="0.69803923"
+              stroke="#f34263"/>
+        <path fill="none" stroke-width="7.0699997"
+              d="M 903.580383,-342.485077 L 780.151306,-622.073730"
+              class="id_abu_dhabi id_kevin_chappell" stroke-opacity="0.69803923"
+              stroke="#f34263"/>
+        <path fill="none" stroke-width="7.0699997"
+              d="M 903.580383,-342.485077 L 819.873535,-181.894211"
+              class="id_abu_dhabi id_matt_kuchar" stroke-opacity="0.69803923"
+              stroke="#f34263"/>
+        <path fill="none" stroke-width="7.0699997"
+              d="M 903.580383,-342.485077 L 363.488159,-581.486450"
+              class="id_abu_dhabi id_patrick_reed" stroke-opacity="0.69803923"
+              stroke="#f34263"/>
+        <path fill="none" stroke-width="7.0699997"
+              d="M 903.580383,-342.485077 L 661.654236,-723.568542"
+              class="id_abu_dhabi id_rickie_fowler" stroke-opacity="0.69803923"
+              stroke="#f34263"/>
+        <path fill="none" stroke-width="7.08"
+              d="M 903.580383,-342.485077 L 679.048828,-109.044182"
+              class="id_abu_dhabi id_rory_mcilroy" stroke-opacity="0.69803923"
+              stroke="#f34263"/>
+        <path fill="none" stroke-width="7.0699997"
+              d="M 903.580383,-342.485077 L 611.405334,-568.057495"
+              class="id_abu_dhabi id_states_kooch" stroke-opacity="0.69803923"
+              stroke="#f34263"/>
+        <path fill="none" stroke-width="7.0699997"
+              d="M 903.580383,-342.485077 L 476.364990,-480.003784"
+              class="id_abu_dhabi id_steve_stricker" stroke-opacity="0.69803923"
+              stroke="#f34263"/>
+        <path fill="none" stroke-width="7.0699997"
+              d="M 903.580383,-342.485077 L 589.029053,-223.004272"
+              class="id_abu_dhabi id_tiger_woods" stroke-opacity="0.69803923"
+              stroke="#f34263"/>
+        <path fill="none" stroke-width="1.54"
+              d="M -167.301712,336.324799 L -365.350067,78.948776"
+              class="id_alina_hartounian id_amanda_lee_myers"
+              stroke-opacity="0.69803923" stroke="#fcd4d6"/>
+        <path fill="none" stroke-width="1.54"
+              d="M -167.301712,336.324799 L -305.903534,245.486603"
+              class="id_alina_hartounian id_justin_pritchard"
+              stroke-opacity="0.69803923" stroke="#fcd4d6"/>
+        <path fill="none" stroke-width="1.54"
+              d="M -167.301712,336.324799 L -223.042999,-29.084984"
+              class="id_alina_hartounian id_los_angeles"
+              stroke-opacity="0.69803923" stroke="#e788de"/>
+        <path fill="none" stroke-width="1.55"
+              d="M -365.350067,78.948776 L -305.903534,245.486603"
+              class="id_amanda_lee_myers id_justin_pritchard"
+              stroke-opacity="0.69803923" stroke="#fcd4d6"/>
+        <path fill="none" stroke-width="1.5799999"
+              d="M -365.350067,78.948776 L -223.042999,-29.084984"
+              class="id_amanda_lee_myers id_los_angeles"
+              stroke-opacity="0.69803923" stroke="#e788de"/>
+        <path fill="none" stroke-width="6.23"
+              d="M -57.813732,215.795486 L 24.961962,352.194214"
+              class="id_amber_heard id_johnny_depp" stroke-opacity="0.69803923"
+              stroke="#ea99e6"/>
+        <path fill="none" stroke-width="1.51"
+              d="M -57.813732,215.795486 L -223.042999,-29.084984"
+              class="id_amber_heard id_los_angeles" stroke-opacity="0.69803923"
+              stroke="#e88de1"/>
+        <path fill="none" stroke-width="1.62"
+              d="M 232.280960,-974.305908 L 388.178345,-931.315674"
+              class="id_andrew_luger id_dustin_schwarze"
+              stroke-opacity="0.69803923" stroke="#fbc2ce"/>
+        <path fill="none" stroke-width="1.99"
+              d="M 232.280960,-974.305908 L 154.897720,-835.002502"
+              class="id_andrew_luger id_jamar_clark" stroke-opacity="0.69803923"
+              stroke="#fcc8d1"/>
+        <path fill="none" stroke-width="1.67"
+              d="M 232.280960,-974.305908 L 220.951828,-687.053406"
+              class="id_andrew_luger id_mark_ringgenberg"
+              stroke-opacity="0.69803923" stroke="#fbc2ce"/>
+        <path fill="none" stroke-width="1.86"
+              d="M 232.280960,-974.305908 L 345.317566,-786.108521"
+              class="id_andrew_luger id_mike_freeman"
+              stroke-opacity="0.69803923" stroke="#fbc2ce"/>
+        <path fill="none" stroke-width="1.86"
+              d="M -540.997192,38.802406 L -741.293884,346.423828"
+              class="id_andy_murray id_novak_djokovic"
+              stroke-opacity="0.69803923" stroke="#fa8c86"/>
+        <path fill="none" stroke-width="2.53"
+              d="M -540.997192,38.802406 L -704.598572,47.528484"
+              class="id_andy_murray id_richard_gasquet"
+              stroke-opacity="0.69803923" stroke="#fc9a8d"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -540.997192,38.802406 L -573.703613,353.145020"
+              class="id_andy_murray id_roland_garros"
+              stroke-opacity="0.69803923" stroke="#f38784"/>
+        <path fill="none" stroke-width="1.78"
+              d="M -540.997192,38.802406 L -645.304565,196.110672"
+              class="id_andy_murray id_stan_wawrinka"
+              stroke-opacity="0.69803923" stroke="#fc9a8d"/>
+        <path fill="none" stroke-width="3.6"
+              d="M -1006.954041,-56.093502 L -860.235718,18.576319"
+              class="id_angela_merkel id_francois_hollande"
+              stroke-opacity="0.69803923" stroke="#fddfdc"/>
+        <path fill="none" stroke-width="4.0299997"
+              d="M -1006.954041,-56.093502 L -998.503967,117.889435"
+              class="id_angela_merkel id_matteo_renzi"
+              stroke-opacity="0.69803923" stroke="#fddfdc"/>
+        <path fill="none" stroke-width="1.68"
+              d="M 68.534744,-1000.143738 L -12.972112,-835.705017"
+              class="id_arun_jaitley id_narendra_modi"
+              stroke-opacity="0.69803923" stroke="#fde5df"/>
+        <path fill="none" stroke-width="2.1699998"
+              d="M 822.323792,183.453354 L 782.723022,353.855804"
+              class="id_atlantic_ocean id_david_learmount"
+              stroke-opacity="0.69803923" stroke="#fcd4d6"/>
+        <path fill="none" stroke-width="2.1299999"
+              d="M 822.323792,183.453354 L 914.825195,444.453857"
+              class="id_atlantic_ocean id_john_lethbridge"
+              stroke-opacity="0.69803923" stroke="#fcced3"/>
+        <path fill="none" stroke-width="2.1299999"
+              d="M 822.323792,183.453354 L 656.712524,261.599670"
+              class="id_atlantic_ocean id_sherif_fathi"
+              stroke-opacity="0.69803923" stroke="#fcced3"/>
+        <path fill="none" stroke-width="4.3199997"
+              d="M -304.349426,-380.497559 L -265.758453,-197.661758"
+              class="id_barack_obama id_bernie_sanders"
+              stroke-opacity="0.69803923" stroke="#d84bed"/>
+        <path fill="none" stroke-width="2.1399999"
+              d="M -304.349426,-380.497559 L -151.037903,-317.189606"
+              class="id_barack_obama id_bill_clinton"
+              stroke-opacity="0.69803923" stroke="#d84dee"/>
+        <path fill="none" stroke-width="1.78"
+              d="M -304.349426,-380.497559 L -515.271973,-431.682404"
+              class="id_barack_obama id_daniel_peters"
+              stroke-opacity="0.69803923" stroke="#ea8de0"/>
+        <path fill="none" stroke-width="1.93"
+              d="M -304.349426,-380.497559 L -170.536743,-487.875549"
+              class="id_barack_obama id_david_cameron"
+              stroke-opacity="0.69803923" stroke="#d84fef"/>
+        <path fill="none" stroke-width="9.59"
+              d="M -304.349426,-380.497559 L 118.679283,-38.910736"
+              class="id_barack_obama id_donald_trump"
+              stroke-opacity="0.69803923" stroke="#c936e4"/>
+        <path fill="none" stroke-width="7.5099998"
+              d="M -304.349426,-380.497559 L 68.202797,-179.199722"
+              class="id_barack_obama id_hillary_clinton"
+              stroke-opacity="0.69803923" stroke="#d23de7"/>
+        <path fill="none" stroke-width="1.91"
+              d="M -304.349426,-380.497559 L -271.304047,-625.312622"
+              class="id_barack_obama id_josh_earnest"
+              stroke-opacity="0.69803923" stroke="#eb98e6"/>
+        <path fill="none" stroke-width="1.9"
+              d="M -304.349426,-380.497559 L -606.067627,-297.301758"
+              class="id_barack_obama id_justin_bieber"
+              stroke-opacity="0.69803923" stroke="#ea8de0"/>
+        <path fill="none" stroke-width="1.8199999"
+              d="M -304.349426,-380.497559 L -392.402985,-523.544861"
+              class="id_barack_obama id_kim_kardashian"
+              stroke-opacity="0.69803923" stroke="#ea8de0"/>
+        <path fill="none" stroke-width="2.51"
+              d="M -304.349426,-380.497559 L -223.042999,-29.084984"
+              class="id_barack_obama id_los_angeles" stroke-opacity="0.69803923"
+              stroke="#d541e8"/>
+        <path fill="none" stroke-width="2.62"
+              d="M -85.478287,496.946899 L 67.714287,534.269409"
+              class="id_barnaby_joyce id_jeff_daniels"
+              stroke-opacity="0.69803923" stroke="#fddfdc"/>
+        <path fill="none" stroke-width="2.9199998"
+              d="M -85.478287,496.946899 L 24.961962,352.194214"
+              class="id_barnaby_joyce id_johnny_depp"
+              stroke-opacity="0.69803923" stroke="#ea99e6"/>
+        <path fill="none" stroke-width="2.6299999"
+              d="M 755.385193,682.425415 L 607.483582,605.402405"
+              class="id_benigno_aquino id_rodrigo_duterte"
+              stroke-opacity="0.69803923" stroke="#fde5df"/>
+        <path fill="none" stroke-width="1.81"
+              d="M 386.074066,54.199661 L 68.202797,-179.199722"
+              class="id_bernie_sander id_hillary_clinton"
+              stroke-opacity="0.69803923" stroke="#e590e2"/>
+        <path fill="none" stroke-width="3.75"
+              d="M -265.758453,-197.661758 L -151.037903,-317.189606"
+              class="id_bernie_sanders id_bill_clinton"
+              stroke-opacity="0.69803923" stroke="#d852f0"/>
+        <path fill="none" stroke-width="13.309999"
+              d="M -265.758453,-197.661758 L 118.679283,-38.910736"
+              class="id_bernie_sanders id_donald_trump"
+              stroke-opacity="0.69803923" stroke="#c93be6"/>
+        <path fill="none" stroke-width="16.84"
+              d="M -265.758453,-197.661758 L 68.202797,-179.199722"
+              class="id_bernie_sanders id_hillary_clinton"
+              stroke-opacity="0.69803923" stroke="#d243e9"/>
+        <path fill="none" stroke-width="2.3"
+              d="M -265.758453,-197.661758 L -94.179359,-151.856110"
+              class="id_bernie_sanders id_jerry_brown"
+              stroke-opacity="0.69803923" stroke="#d854f1"/>
+        <path fill="none" stroke-width="1.77"
+              d="M -265.758453,-197.661758 L -223.042999,-29.084984"
+              class="id_bernie_sanders id_los_angeles"
+              stroke-opacity="0.69803923" stroke="#d546eb"/>
+        <path fill="none" stroke-width="1.93"
+              d="M 536.714844,-851.290466 L 388.178345,-931.315674"
+              class="id_betsy_hodges id_dustin_schwarze"
+              stroke-opacity="0.69803923" stroke="#fbc8d0"/>
+        <path fill="none" stroke-width="1.9499999"
+              d="M 536.714844,-851.290466 L 220.951828,-687.053406"
+              class="id_betsy_hodges id_mark_ringgenberg"
+              stroke-opacity="0.69803923" stroke="#fbc8d0"/>
+        <path fill="none" stroke-width="2.09"
+              d="M 536.714844,-851.290466 L 345.317566,-786.108521"
+              class="id_betsy_hodges id_mike_freeman"
+              stroke-opacity="0.69803923" stroke="#fbc8d0"/>
+        <path fill="none" stroke-width="5.0899997"
+              d="M -151.037903,-317.189606 L 118.679283,-38.910736"
+              class="id_bill_clinton id_donald_trump"
+              stroke-opacity="0.69803923" stroke="#c93de7"/>
+        <path fill="none" stroke-width="6.87"
+              d="M -151.037903,-317.189606 L 68.202797,-179.199722"
+              class="id_bill_clinton id_hillary_clinton"
+              stroke-opacity="0.69803923" stroke="#d244ea"/>
+        <path fill="none" stroke-width="1.61"
+              d="M -151.037903,-317.189606 L -94.179359,-151.856110"
+              class="id_bill_clinton id_jerry_brown" stroke-opacity="0.69803923"
+              stroke="#d855f2"/>
+        <path fill="none" stroke-width="1.7199999"
+              d="M -108.498207,-656.501038 L -170.536743,-487.875549"
+              class="id_boris_johnson id_david_cameron"
+              stroke-opacity="0.69803923" stroke="#ea9ce8"/>
+        <path fill="none" stroke-width="1.81"
+              d="M -108.498207,-656.501038 L 50.529335,-674.044617"
+              class="id_boris_johnson id_michael_gove"
+              stroke-opacity="0.69803923" stroke="#fde5df"/>
+        <path fill="none" stroke-width="2.57"
+              d="M -398.242584,-925.970764 L -245.200363,-967.516479"
+              class="id_bruce_rauner id_john_cullerton"
+              stroke-opacity="0.69803923" stroke="#fddfdc"/>
+        <path fill="none" stroke-width="1.9499999"
+              d="M -398.242584,-925.970764 L -332.779419,-777.012451"
+              class="id_bruce_rauner id_michael_madigan"
+              stroke-opacity="0.69803923" stroke="#fddfdc"/>
+        <path fill="none" stroke-width="7.0699997"
+              d="M 495.200531,-674.766907 L 409.213989,-299.342072"
+              class="id_bubba_watson id_david_lingmerth"
+              stroke-opacity="0.69803923" stroke="#f34263"/>
+        <path fill="none" stroke-width="7.1499996"
+              d="M 495.200531,-674.766907 L 323.785583,-420.539185"
+              class="id_bubba_watson id_dustin_johnson"
+              stroke-opacity="0.69803923" stroke="#f34263"/>
+        <path fill="none" stroke-width="7.12"
+              d="M 495.200531,-674.766907 L 454.579956,-157.967758"
+              class="id_bubba_watson id_hideki_matsuyama"
+              stroke-opacity="0.69803923" stroke="#f34263"/>
+        <path fill="none" stroke-width="7.14"
+              d="M 495.200531,-674.766907 L 875.473083,-488.640686"
+              class="id_bubba_watson id_jason_day" stroke-opacity="0.69803923"
+              stroke="#f34263"/>
+        <path fill="none" stroke-width="7.08"
+              d="M 495.200531,-674.766907 L 575.795349,-372.558380"
+              class="id_bubba_watson id_jason_dufner"
+              stroke-opacity="0.69803923" stroke="#f34263"/>
+        <path fill="none" stroke-width="7.19"
+              d="M 495.200531,-674.766907 L 722.309448,-459.637634"
+              class="id_bubba_watson id_jordan_spieth"
+              stroke-opacity="0.69803923" stroke="#f34263"/>
+        <path fill="none" stroke-width="7.0899997"
+              d="M 495.200531,-674.766907 L 738.885376,-307.046814"
+              class="id_bubba_watson id_justin_rose" stroke-opacity="0.69803923"
+              stroke="#f34263"/>
+        <path fill="none" stroke-width="7.0699997"
+              d="M 495.200531,-674.766907 L 780.151306,-622.073730"
+              class="id_bubba_watson id_kevin_chappell"
+              stroke-opacity="0.69803923" stroke="#f34263"/>
+        <path fill="none" stroke-width="7.0899997"
+              d="M 495.200531,-674.766907 L 819.873535,-181.894211"
+              class="id_bubba_watson id_matt_kuchar" stroke-opacity="0.69803923"
+              stroke="#f34263"/>
+        <path fill="none" stroke-width="7.08"
+              d="M 495.200531,-674.766907 L 363.488159,-581.486450"
+              class="id_bubba_watson id_patrick_reed"
+              stroke-opacity="0.69803923" stroke="#f34263"/>
+        <path fill="none" stroke-width="7.18"
+              d="M 495.200531,-674.766907 L 661.654236,-723.568542"
+              class="id_bubba_watson id_rickie_fowler"
+              stroke-opacity="0.69803923" stroke="#f34263"/>
+        <path fill="none" stroke-width="7.19"
+              d="M 495.200531,-674.766907 L 679.048828,-109.044182"
+              class="id_bubba_watson id_rory_mcilroy"
+              stroke-opacity="0.69803923" stroke="#f34263"/>
+        <path fill="none" stroke-width="7.0699997"
+              d="M 495.200531,-674.766907 L 611.405334,-568.057495"
+              class="id_bubba_watson id_states_kooch"
+              stroke-opacity="0.69803923" stroke="#f34263"/>
+        <path fill="none" stroke-width="7.0699997"
+              d="M 495.200531,-674.766907 L 476.364990,-480.003784"
+              class="id_bubba_watson id_steve_stricker"
+              stroke-opacity="0.69803923" stroke="#f34263"/>
+        <path fill="none" stroke-width="7.08"
+              d="M 495.200531,-674.766907 L 589.029053,-223.004272"
+              class="id_bubba_watson id_tiger_woods" stroke-opacity="0.69803923"
+              stroke="#f34263"/>
+        <path fill="none" stroke-width="1.55"
+              d="M -466.941406,-679.616089 L -530.999023,-840.825500"
+              class="id_cameron_smith id_johnathan_thurston"
+              stroke-opacity="0.69803923" stroke="#feebe2"/>
+        <path fill="none" stroke-width="1.8399999"
+              d="M -300.206757,768.179443 L -393.720459,383.398193"
+              class="id_carla_suarez_navarro id_elina_svitolina"
+              stroke-opacity="0.69803923" stroke="#fc8d86"/>
+        <path fill="none" stroke-width="1.74"
+              d="M -300.206757,768.179443 L -192.719543,636.544739"
+              class="id_carla_suarez_navarro id_kiki_bertens"
+              stroke-opacity="0.69803923" stroke="#fc8f88"/>
+        <path fill="none" stroke-width="1.8499999"
+              d="M -300.206757,768.179443 L -573.703613,353.145020"
+              class="id_carla_suarez_navarro id_roland_garros"
+              stroke-opacity="0.69803923" stroke="#f38282"/>
+        <path fill="none" stroke-width="1.62"
+              d="M -300.206757,768.179443 L -367.042480,594.593201"
+              class="id_carla_suarez_navarro id_serena_williams"
+              stroke-opacity="0.69803923" stroke="#fc8e87"/>
+        <path fill="none" stroke-width="1.74"
+              d="M -300.206757,768.179443 L -455.957916,732.027039"
+              class="id_carla_suarez_navarro id_timea_bacsinszky"
+              stroke-opacity="0.69803923" stroke="#fc8d86"/>
+        <path fill="none" stroke-width="1.56"
+              d="M -300.206757,768.179443 L -575.663452,630.936279"
+              class="id_carla_suarez_navarro id_venus_williams"
+              stroke-opacity="0.69803923" stroke="#fc8e87"/>
+        <path fill="none" stroke-width="1.8299999"
+              d="M -300.206757,768.179443 L -257.565735,476.214447"
+              class="id_carla_suarez_navarro id_yulia_putintseva"
+              stroke-opacity="0.69803923" stroke="#fc8f88"/>
+        <path fill="none" stroke-width="1.56"
+              d="M 994.975891,-196.617569 L 997.682251,-37.620956"
+              class="id_carole_smith id_kate_brown" stroke-opacity="0.69803923"
+              stroke="#feebe2"/>
+        <path fill="none" stroke-width="4.46"
+              d="M -427.602142,-275.678436 L -223.042999,-29.084984"
+              class="id_charlie_beck id_los_angeles" stroke-opacity="0.69803923"
+              stroke="#e893e4"/>
+        <path fill="none" stroke-width="1.7099999"
+              d="M -282.936249,953.780701 L -133.153656,991.291626"
+              class="id_charlotte_schmitz id_kevin_bales"
+              stroke-opacity="0.69803923" stroke="#fddfdc"/>
+        <path fill="none" stroke-width="1.7099999"
+              d="M -282.936249,953.780701 L 24.849371,1004.396851"
+              class="id_charlotte_schmitz id_roman_polanski"
+              stroke-opacity="0.69803923" stroke="#fddfdc"/>
+        <path fill="none" stroke-width="1.5699999"
+              d="M 459.611237,517.725586 L 627.518188,441.600159"
+              class="id_corey_jones id_nouman_raja" stroke-opacity="0.69803923"
+              stroke="#feebe2"/>
+        <path fill="none" stroke-width="3.78"
+              d="M 231.742661,94.696312 L 118.679283,-38.910736"
+              class="id_corey_lewandowski id_donald_trump"
+              stroke-opacity="0.69803923" stroke="#c93fe8"/>
+        <path fill="none" stroke-width="3.02"
+              d="M 231.742661,94.696312 L 68.202797,-179.199722"
+              class="id_corey_lewandowski id_hillary_clinton"
+              stroke-opacity="0.69803923" stroke="#d247eb"/>
+        <path fill="none" stroke-width="1.8"
+              d="M 231.742661,94.696312 L 532.669678,1.575379"
+              class="id_corey_lewandowski id_jonathan_lemire"
+              stroke-opacity="0.69803923" stroke="#d859f4"/>
+        <path fill="none" stroke-width="1.78"
+              d="M -515.271973,-431.682404 L -606.067627,-297.301758"
+              class="id_daniel_peters id_justin_bieber"
+              stroke-opacity="0.69803923" stroke="#fcd4d6"/>
+        <path fill="none" stroke-width="1.78"
+              d="M -515.271973,-431.682404 L -392.402985,-523.544861"
+              class="id_daniel_peters id_kim_kardashian"
+              stroke-opacity="0.69803923" stroke="#fcd4d6"/>
+        <path fill="none" stroke-width="3.46"
+              d="M -170.536743,-487.875549 L 118.679283,-38.910736"
+              class="id_david_cameron id_donald_trump"
+              stroke-opacity="0.69803923" stroke="#c93fe8"/>
+        <path fill="none" stroke-width="1.64"
+              d="M -962.573792,279.719421 L -741.293884,346.423828"
+              class="id_david_ferrer id_novak_djokovic"
+              stroke-opacity="0.69803923" stroke="#fa8f88"/>
+        <path fill="none" stroke-width="1.51"
+              d="M -962.573792,279.719421 L -573.703613,353.145020"
+              class="id_david_ferrer id_roland_garros"
+              stroke-opacity="0.69803923" stroke="#f48985"/>
+        <path fill="none" stroke-width="2.56"
+              d="M 161.047318,-526.873657 L 118.679283,-38.910736"
+              class="id_david_french id_donald_trump"
+              stroke-opacity="0.69803923" stroke="#c941e9"/>
+        <path fill="none" stroke-width="1.92"
+              d="M 161.047318,-526.873657 L 68.202797,-179.199722"
+              class="id_david_french id_hillary_clinton"
+              stroke-opacity="0.69803923" stroke="#d248ec"/>
+        <path fill="none" stroke-width="1.74"
+              d="M -896.278564,418.646362 L -692.826782,498.667969"
+              class="id_david_goffin id_dominic_thiem"
+              stroke-opacity="0.69803923" stroke="#fc958a"/>
+        <path fill="none" stroke-width="1.74"
+              d="M -896.278564,418.646362 L -822.823914,195.122055"
+              class="id_david_goffin id_ernests_gulbis"
+              stroke-opacity="0.69803923" stroke="#fc988c"/>
+        <path fill="none" stroke-width="1.9599999"
+              d="M -896.278564,418.646362 L -741.293884,346.423828"
+              class="id_david_goffin id_novak_djokovic"
+              stroke-opacity="0.69803923" stroke="#fa8985"/>
+        <path fill="none" stroke-width="1.65"
+              d="M -896.278564,418.646362 L -723.000732,688.533630"
+              class="id_david_goffin id_roberto_bautista_agut"
+              stroke-opacity="0.69803923" stroke="#fc9088"/>
+        <path fill="none" stroke-width="2.01"
+              d="M -896.278564,418.646362 L -573.703613,353.145020"
+              class="id_david_goffin id_roland_garros"
+              stroke-opacity="0.69803923" stroke="#f38482"/>
+        <path fill="none" stroke-width="1.5899999"
+              d="M -896.278564,418.646362 L -838.956543,565.788757"
+              class="id_david_goffin id_tomas_berdych"
+              stroke-opacity="0.69803923" stroke="#fc958a"/>
+        <path fill="none" stroke-width="2.27"
+              d="M 782.723022,353.855804 L 914.825195,444.453857"
+              class="id_david_learmount id_john_lethbridge"
+              stroke-opacity="0.69803923" stroke="#fcced3"/>
+        <path fill="none" stroke-width="2.23"
+              d="M 782.723022,353.855804 L 656.712524,261.599670"
+              class="id_david_learmount id_sherif_fathi"
+              stroke-opacity="0.69803923" stroke="#fcced3"/>
+        <path fill="none" stroke-width="7.0899997"
+              d="M 409.213989,-299.342072 L 323.785583,-420.539185"
+              class="id_david_lingmerth id_dustin_johnson"
+              stroke-opacity="0.69803923" stroke="#f34263"/>
+        <path fill="none" stroke-width="7.1"
+              d="M 409.213989,-299.342072 L 454.579956,-157.967758"
+              class="id_david_lingmerth id_hideki_matsuyama"
+              stroke-opacity="0.69803923" stroke="#f34263"/>
+        <path fill="none" stroke-width="7.14"
+              d="M 409.213989,-299.342072 L 875.473083,-488.640686"
+              class="id_david_lingmerth id_jason_day"
+              stroke-opacity="0.69803923" stroke="#f34263"/>
+        <path fill="none" stroke-width="7.0699997"
+              d="M 409.213989,-299.342072 L 575.795349,-372.558380"
+              class="id_david_lingmerth id_jason_dufner"
+              stroke-opacity="0.69803923" stroke="#f34263"/>
+        <path fill="none" stroke-width="7.17"
+              d="M 409.213989,-299.342072 L 722.309448,-459.637634"
+              class="id_david_lingmerth id_jordan_spieth"
+              stroke-opacity="0.69803923" stroke="#f34263"/>
+        <path fill="none" stroke-width="7.1299996"
+              d="M 409.213989,-299.342072 L 738.885376,-307.046814"
+              class="id_david_lingmerth id_justin_rose"
+              stroke-opacity="0.69803923" stroke="#f34263"/>
+        <path fill="none" stroke-width="7.0699997"
+              d="M 409.213989,-299.342072 L 780.151306,-622.073730"
+              class="id_david_lingmerth id_kevin_chappell"
+              stroke-opacity="0.69803923" stroke="#f34263"/>
+        <path fill="none" stroke-width="7.08"
+              d="M 409.213989,-299.342072 L 819.873535,-181.894211"
+              class="id_david_lingmerth id_matt_kuchar"
+              stroke-opacity="0.69803923" stroke="#f34263"/>
+        <path fill="none" stroke-width="7.0899997"
+              d="M 409.213989,-299.342072 L 363.488159,-581.486450"
+              class="id_david_lingmerth id_patrick_reed"
+              stroke-opacity="0.69803923" stroke="#f34263"/>
+        <path fill="none" stroke-width="7.0899997"
+              d="M 409.213989,-299.342072 L 661.654236,-723.568542"
+              class="id_david_lingmerth id_rickie_fowler"
+              stroke-opacity="0.69803923" stroke="#f34263"/>
+        <path fill="none" stroke-width="7.1499996"
+              d="M 409.213989,-299.342072 L 679.048828,-109.044182"
+              class="id_david_lingmerth id_rory_mcilroy"
+              stroke-opacity="0.69803923" stroke="#f34263"/>
+        <path fill="none" stroke-width="7.0699997"
+              d="M 409.213989,-299.342072 L 611.405334,-568.057495"
+              class="id_david_lingmerth id_states_kooch"
+              stroke-opacity="0.69803923" stroke="#f34263"/>
+        <path fill="none" stroke-width="7.0699997"
+              d="M 409.213989,-299.342072 L 476.364990,-480.003784"
+              class="id_david_lingmerth id_steve_stricker"
+              stroke-opacity="0.69803923" stroke="#f34263"/>
+        <path fill="none" stroke-width="7.1099997"
+              d="M 409.213989,-299.342072 L 589.029053,-223.004272"
+              class="id_david_lingmerth id_tiger_woods"
+              stroke-opacity="0.69803923" stroke="#f34263"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 321.533478,761.259338 L 173.864532,827.176025"
+              class="id_david_wright id_jackie_bradley_jr"
+              stroke-opacity="0.69803923" stroke="#fcbc76"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 321.533478,761.259338 L -17.035828,680.419006"
+              class="id_david_wright id_rusney_castillo"
+              stroke-opacity="0.69803923" stroke="#fcbc76"/>
+        <path fill="none" stroke-width="5.99"
+              d="M 321.533478,761.259338 L 299.702240,583.522949"
+              class="id_david_wright id_shawn_armstrong"
+              stroke-opacity="0.69803923" stroke="#fcbc76"/>
+        <path fill="none" stroke-width="6.52"
+              d="M 321.533478,761.259338 L 161.044754,666.551025"
+              class="id_david_wright id_terry_collins"
+              stroke-opacity="0.69803923" stroke="#fcbc76"/>
+        <path fill="none" stroke-width="2.4099998"
+              d="M -189.024750,127.531944 L -223.042999,-29.084984"
+              class="id_denise_aberle id_los_angeles"
+              stroke-opacity="0.69803923" stroke="#e893e4"/>
+        <path fill="none" stroke-width="2.23"
+              d="M 189.728806,989.543396 L 343.493500,938.278992"
+              class="id_dilma_rousseff id_michel_temer"
+              stroke-opacity="0.69803923" stroke="#feebe2"/>
+        <path fill="none" stroke-width="1.8399999"
+              d="M -692.826782,498.667969 L -741.293884,346.423828"
+              class="id_dominic_thiem id_novak_djokovic"
+              stroke-opacity="0.69803923" stroke="#fa8b85"/>
+        <path fill="none" stroke-width="1.5799999"
+              d="M -692.826782,498.667969 L -723.000732,688.533630"
+              class="id_dominic_thiem id_roberto_bautista_agut"
+              stroke-opacity="0.69803923" stroke="#fc9188"/>
+        <path fill="none" stroke-width="1.8399999"
+              d="M -692.826782,498.667969 L -573.703613,353.145020"
+              class="id_dominic_thiem id_roland_garros"
+              stroke-opacity="0.69803923" stroke="#f38583"/>
+        <path fill="none" stroke-width="1.5799999"
+              d="M -692.826782,498.667969 L -838.956543,565.788757"
+              class="id_dominic_thiem id_tomas_berdych"
+              stroke-opacity="0.69803923" stroke="#fc978b"/>
+        <path fill="none" stroke-width="2.6499999"
+              d="M 118.679283,-38.910736 L -5.140638,-500.409210"
+              class="id_donald_trump id_gary_johnson"
+              stroke-opacity="0.69803923" stroke="#c941e9"/>
+        <path fill="none" stroke-width="1.88"
+              d="M 118.679283,-38.910736 L -48.842564,10.018511"
+              class="id_donald_trump id_george_w_bush"
+              stroke-opacity="0.69803923" stroke="#c941e9"/>
+        <path fill="none" stroke-width="4.73"
+              d="M 118.679283,-38.910736 L 179.058258,265.180420"
+              class="id_donald_trump id_gonzalo_curiel"
+              stroke-opacity="0.69803923" stroke="#c93fe8"/>
+        <path fill="none" stroke-width="34.62"
+              d="M 118.679283,-38.910736 L 68.202797,-179.199722"
+              class="id_donald_trump id_hillary_clinton"
+              stroke-opacity="0.69803923" stroke="#c32de0"/>
+        <path fill="none" stroke-width="1.65"
+              d="M 118.679283,-38.910736 L 185.958710,434.665466"
+              class="id_donald_trump id_jeff_horwitz"
+              stroke-opacity="0.69803923" stroke="#c942ea"/>
+        <path fill="none" stroke-width="2.6"
+              d="M 118.679283,-38.910736 L -94.179359,-151.856110"
+              class="id_donald_trump id_jerry_brown" stroke-opacity="0.69803923"
+              stroke="#c93ee8"/>
+        <path fill="none" stroke-width="1.75"
+              d="M 118.679283,-38.910736 L 334.724426,399.772858"
+              class="id_donald_trump id_jill_colvin" stroke-opacity="0.69803923"
+              stroke="#c942ea"/>
+        <path fill="none" stroke-width="1.9"
+              d="M 118.679283,-38.910736 L 489.152649,338.020233"
+              class="id_donald_trump id_jill_martin" stroke-opacity="0.69803923"
+              stroke="#c941e9"/>
+        <path fill="none" stroke-width="1.77"
+              d="M 118.679283,-38.910736 L 518.795959,171.160309"
+              class="id_donald_trump id_john_mccain" stroke-opacity="0.69803923"
+              stroke="#c942ea"/>
+        <path fill="none" stroke-width="1.5899999"
+              d="M 118.679283,-38.910736 L 24.961962,352.194214"
+              class="id_donald_trump id_johnny_depp" stroke-opacity="0.69803923"
+              stroke="#c93de7"/>
+        <path fill="none" stroke-width="2.8899999"
+              d="M 118.679283,-38.910736 L 532.669678,1.575379"
+              class="id_donald_trump id_jonathan_lemire"
+              stroke-opacity="0.69803923" stroke="#c93fe8"/>
+        <path fill="none" stroke-width="3.1799998"
+              d="M 118.679283,-38.910736 L -223.042999,-29.084984"
+              class="id_donald_trump id_los_angeles" stroke-opacity="0.69803923"
+              stroke="#c631e1"/>
+        <path fill="none" stroke-width="3.98"
+              d="M 118.679283,-38.910736 L 153.811722,-364.976135"
+              class="id_donald_trump id_marco_rubio" stroke-opacity="0.69803923"
+              stroke="#c941e9"/>
+        <path fill="none" stroke-width="3.47"
+              d="M 118.679283,-38.910736 L 71.898872,132.049530"
+              class="id_donald_trump id_mitt_romney" stroke-opacity="0.69803923"
+              stroke="#c941e9"/>
+        <path fill="none" stroke-width="1.63"
+              d="M 118.679283,-38.910736 L 347.635406,230.622925"
+              class="id_donald_trump id_paul_ryan" stroke-opacity="0.69803923"
+              stroke="#c942ea"/>
+        <path fill="none" stroke-width="2.28"
+              d="M 118.679283,-38.910736 L 290.587585,-80.173691"
+              class="id_donald_trump id_rodong_sinmun"
+              stroke-opacity="0.69803923" stroke="#c941e9"/>
+        <path fill="none" stroke-width="3.1599998"
+              d="M 118.679283,-38.910736 L 0.132501,-333.709686"
+              class="id_donald_trump id_ted_cruz" stroke-opacity="0.69803923"
+              stroke="#c941e9"/>
+        <path fill="none" stroke-width="1.9399999"
+              d="M 118.679283,-38.910736 L 234.290863,-225.096878"
+              class="id_donald_trump id_tom_llamas" stroke-opacity="0.69803923"
+              stroke="#c942ea"/>
+        <path fill="none" stroke-width="1.66"
+              d="M -766.513245,-641.894714 L -656.987427,-753.693420"
+              class="id_dow_jones_factiva id_gothenburg_bancshares"
+              stroke-opacity="0.69803923" stroke="#feebe2"/>
+        <path fill="none" stroke-width="7.1499996"
+              d="M 323.785583,-420.539185 L 454.579956,-157.967758"
+              class="id_dustin_johnson id_hideki_matsuyama"
+              stroke-opacity="0.69803923" stroke="#f34263"/>
+        <path fill="none" stroke-width="7.18"
+              d="M 323.785583,-420.539185 L 875.473083,-488.640686"
+              class="id_dustin_johnson id_jason_day" stroke-opacity="0.69803923"
+              stroke="#f34263"/>
+        <path fill="none" stroke-width="7.08"
+              d="M 323.785583,-420.539185 L 575.795349,-372.558380"
+              class="id_dustin_johnson id_jason_dufner"
+              stroke-opacity="0.69803923" stroke="#f34263"/>
+        <path fill="none" stroke-width="7.23"
+              d="M 323.785583,-420.539185 L 722.309448,-459.637634"
+              class="id_dustin_johnson id_jordan_spieth"
+              stroke-opacity="0.69803923" stroke="#f34263"/>
+        <path fill="none" stroke-width="7.0899997"
+              d="M 323.785583,-420.539185 L 738.885376,-307.046814"
+              class="id_dustin_johnson id_justin_rose"
+              stroke-opacity="0.69803923" stroke="#f34263"/>
+        <path fill="none" stroke-width="7.0699997"
+              d="M 323.785583,-420.539185 L 780.151306,-622.073730"
+              class="id_dustin_johnson id_kevin_chappell"
+              stroke-opacity="0.69803923" stroke="#f34263"/>
+        <path fill="none" stroke-width="7.1"
+              d="M 323.785583,-420.539185 L 819.873535,-181.894211"
+              class="id_dustin_johnson id_matt_kuchar"
+              stroke-opacity="0.69803923" stroke="#f34263"/>
+        <path fill="none" stroke-width="7.1499996"
+              d="M 323.785583,-420.539185 L 363.488159,-581.486450"
+              class="id_dustin_johnson id_patrick_reed"
+              stroke-opacity="0.69803923" stroke="#f34263"/>
+        <path fill="none" stroke-width="7.22"
+              d="M 323.785583,-420.539185 L 661.654236,-723.568542"
+              class="id_dustin_johnson id_rickie_fowler"
+              stroke-opacity="0.69803923" stroke="#f34263"/>
+        <path fill="none" stroke-width="7.21"
+              d="M 323.785583,-420.539185 L 679.048828,-109.044182"
+              class="id_dustin_johnson id_rory_mcilroy"
+              stroke-opacity="0.69803923" stroke="#f34263"/>
+        <path fill="none" stroke-width="7.0699997"
+              d="M 323.785583,-420.539185 L 611.405334,-568.057495"
+              class="id_dustin_johnson id_states_kooch"
+              stroke-opacity="0.69803923" stroke="#f34263"/>
+        <path fill="none" stroke-width="7.0699997"
+              d="M 323.785583,-420.539185 L 476.364990,-480.003784"
+              class="id_dustin_johnson id_steve_stricker"
+              stroke-opacity="0.69803923" stroke="#f34263"/>
+        <path fill="none" stroke-width="7.08"
+              d="M 323.785583,-420.539185 L 589.029053,-223.004272"
+              class="id_dustin_johnson id_tiger_woods"
+              stroke-opacity="0.69803923" stroke="#f34263"/>
+        <path fill="none" stroke-width="1.78"
+              d="M 388.178345,-931.315674 L 154.897720,-835.002502"
+              class="id_dustin_schwarze id_jamar_clark"
+              stroke-opacity="0.69803923" stroke="#fbc2ce"/>
+        <path fill="none" stroke-width="2.6"
+              d="M 388.178345,-931.315674 L 220.951828,-687.053406"
+              class="id_dustin_schwarze id_mark_ringgenberg"
+              stroke-opacity="0.69803923" stroke="#fbbdcb"/>
+        <path fill="none" stroke-width="2.4199998"
+              d="M 388.178345,-931.315674 L 345.317566,-786.108521"
+              class="id_dustin_schwarze id_mike_freeman"
+              stroke-opacity="0.69803923" stroke="#fbbdcb"/>
+        <path fill="none" stroke-width="1.9499999"
+              d="M -393.720459,383.398193 L -192.719543,636.544739"
+              class="id_elina_svitolina id_kiki_bertens"
+              stroke-opacity="0.69803923" stroke="#fc8b85"/>
+        <path fill="none" stroke-width="1.5899999"
+              d="M -393.720459,383.398193 L -499.575134,496.052612"
+              class="id_elina_svitolina id_madison_keys"
+              stroke-opacity="0.69803923" stroke="#fc9087"/>
+        <path fill="none" stroke-width="2.21"
+              d="M -393.720459,383.398193 L -741.293884,346.423828"
+              class="id_elina_svitolina id_novak_djokovic"
+              stroke-opacity="0.69803923" stroke="#fa8482"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -393.720459,383.398193 L -723.000732,688.533630"
+              class="id_elina_svitolina id_roberto_bautista_agut"
+              stroke-opacity="0.69803923" stroke="#fc8a85"/>
+        <path fill="none" stroke-width="2.9299998"
+              d="M -393.720459,383.398193 L -573.703613,353.145020"
+              class="id_elina_svitolina id_roland_garros"
+              stroke-opacity="0.69803923" stroke="#f37e7f"/>
+        <path fill="none" stroke-width="2.57"
+              d="M -393.720459,383.398193 L -367.042480,594.593201"
+              class="id_elina_svitolina id_serena_williams"
+              stroke-opacity="0.69803923" stroke="#fc8a85"/>
+        <path fill="none" stroke-width="2.19"
+              d="M -393.720459,383.398193 L -455.957916,732.027039"
+              class="id_elina_svitolina id_timea_bacsinszky"
+              stroke-opacity="0.69803923" stroke="#fc8984"/>
+        <path fill="none" stroke-width="1.9699999"
+              d="M -393.720459,383.398193 L -575.663452,630.936279"
+              class="id_elina_svitolina id_venus_williams"
+              stroke-opacity="0.69803923" stroke="#fc8a85"/>
+        <path fill="none" stroke-width="1.9399999"
+              d="M -393.720459,383.398193 L -257.565735,476.214447"
+              class="id_elina_svitolina id_yulia_putintseva"
+              stroke-opacity="0.69803923" stroke="#fc8b85"/>
+        <path fill="none" stroke-width="1.55"
+              d="M 990.092041,120.669838 L 687.796692,81.957619"
+              class="id_emily_blunt id_julie_andrews"
+              stroke-opacity="0.69803923" stroke="#fddfdc"/>
+        <path fill="none" stroke-width="2.32"
+              d="M 990.092041,120.669838 L 963.281311,279.488892"
+              class="id_emily_blunt id_lin-manuel_miranda"
+              stroke-opacity="0.69803923" stroke="#fcd9d9"/>
+        <path fill="none" stroke-width="1.62"
+              d="M 990.092041,120.669838 L 839.311890,6.534117"
+              class="id_emily_blunt id_michael_banks"
+              stroke-opacity="0.69803923" stroke="#fcd9d9"/>
+        <path fill="none" stroke-width="1.5699999"
+              d="M -822.823914,195.122055 L -741.293884,346.423828"
+              class="id_ernests_gulbis id_novak_djokovic"
+              stroke-opacity="0.69803923" stroke="#fa8d87"/>
+        <path fill="none" stroke-width="1.65"
+              d="M -822.823914,195.122055 L -573.703613,353.145020"
+              class="id_ernests_gulbis id_roland_garros"
+              stroke-opacity="0.69803923" stroke="#f38884"/>
+        <path fill="none" stroke-width="1.5799999"
+              d="M 619.299927,786.256775 L 607.483582,605.402405"
+              class="id_ferdinand_marcos id_rodrigo_duterte"
+              stroke-opacity="0.69803923" stroke="#fde5df"/>
+        <path fill="none" stroke-width="3.4499998"
+              d="M -860.235718,18.576319 L -998.503967,117.889435"
+              class="id_francois_hollande id_matteo_renzi"
+              stroke-opacity="0.69803923" stroke="#fddfdc"/>
+        <path fill="none" stroke-width="1.92"
+              d="M -598.512207,822.232849 L -436.781525,907.451599"
+              class="id_gail_myers id_thane_maynard" stroke-opacity="0.69803923"
+              stroke="#feebe2"/>
+        <path fill="none" stroke-width="2.6299999"
+              d="M -5.140638,-500.409210 L 68.202797,-179.199722"
+              class="id_gary_johnson id_hillary_clinton"
+              stroke-opacity="0.69803923" stroke="#d248ec"/>
+        <path fill="none" stroke-width="1.75"
+              d="M -48.842564,10.018511 L 68.202797,-179.199722"
+              class="id_george_w_bush id_hillary_clinton"
+              stroke-opacity="0.69803923" stroke="#d248ec"/>
+        <path fill="none" stroke-width="1.67"
+              d="M 179.058258,265.180420 L 68.202797,-179.199722"
+              class="id_gonzalo_curiel id_hillary_clinton"
+              stroke-opacity="0.69803923" stroke="#d247eb"/>
+        <path fill="none" stroke-width="1.88"
+              d="M 179.058258,265.180420 L 489.152649,338.020233"
+              class="id_gonzalo_curiel id_jill_martin"
+              stroke-opacity="0.69803923" stroke="#d85af4"/>
+        <path fill="none" stroke-width="7.1299996"
+              d="M 454.579956,-157.967758 L 875.473083,-488.640686"
+              class="id_hideki_matsuyama id_jason_day"
+              stroke-opacity="0.69803923" stroke="#f34263"/>
+        <path fill="none" stroke-width="7.08"
+              d="M 454.579956,-157.967758 L 575.795349,-372.558380"
+              class="id_hideki_matsuyama id_jason_dufner"
+              stroke-opacity="0.69803923" stroke="#f34263"/>
+        <path fill="none" stroke-width="7.19"
+              d="M 454.579956,-157.967758 L 722.309448,-459.637634"
+              class="id_hideki_matsuyama id_jordan_spieth"
+              stroke-opacity="0.69803923" stroke="#f34263"/>
+        <path fill="none" stroke-width="7.0899997"
+              d="M 454.579956,-157.967758 L 738.885376,-307.046814"
+              class="id_hideki_matsuyama id_justin_rose"
+              stroke-opacity="0.69803923" stroke="#f34263"/>
+        <path fill="none" stroke-width="7.0699997"
+              d="M 454.579956,-157.967758 L 780.151306,-622.073730"
+              class="id_hideki_matsuyama id_kevin_chappell"
+              stroke-opacity="0.69803923" stroke="#f34263"/>
+        <path fill="none" stroke-width="7.1"
+              d="M 454.579956,-157.967758 L 819.873535,-181.894211"
+              class="id_hideki_matsuyama id_matt_kuchar"
+              stroke-opacity="0.69803923" stroke="#f34263"/>
+        <path fill="none" stroke-width="7.14"
+              d="M 454.579956,-157.967758 L 363.488159,-581.486450"
+              class="id_hideki_matsuyama id_patrick_reed"
+              stroke-opacity="0.69803923" stroke="#f34263"/>
+        <path fill="none" stroke-width="7.18"
+              d="M 454.579956,-157.967758 L 661.654236,-723.568542"
+              class="id_hideki_matsuyama id_rickie_fowler"
+              stroke-opacity="0.69803923" stroke="#f34263"/>
+        <path fill="none" stroke-width="7.19"
+              d="M 454.579956,-157.967758 L 679.048828,-109.044182"
+              class="id_hideki_matsuyama id_rory_mcilroy"
+              stroke-opacity="0.69803923" stroke="#f34263"/>
+        <path fill="none" stroke-width="7.0699997"
+              d="M 454.579956,-157.967758 L 611.405334,-568.057495"
+              class="id_hideki_matsuyama id_states_kooch"
+              stroke-opacity="0.69803923" stroke="#f34263"/>
+        <path fill="none" stroke-width="7.0699997"
+              d="M 454.579956,-157.967758 L 476.364990,-480.003784"
+              class="id_hideki_matsuyama id_steve_stricker"
+              stroke-opacity="0.69803923" stroke="#f34263"/>
+        <path fill="none" stroke-width="7.0699997"
+              d="M 454.579956,-157.967758 L 589.029053,-223.004272"
+              class="id_hideki_matsuyama id_tiger_woods"
+              stroke-opacity="0.69803923" stroke="#f34263"/>
+        <path fill="none" stroke-width="3.48"
+              d="M 68.202797,-179.199722 L -94.179359,-151.856110"
+              class="id_hillary_clinton id_jerry_brown"
+              stroke-opacity="0.69803923" stroke="#d246eb"/>
+        <path fill="none" stroke-width="1.92"
+              d="M 68.202797,-179.199722 L 532.669678,1.575379"
+              class="id_hillary_clinton id_jonathan_lemire"
+              stroke-opacity="0.69803923" stroke="#d247eb"/>
+        <path fill="none" stroke-width="2.1299999"
+              d="M 68.202797,-179.199722 L -223.042999,-29.084984"
+              class="id_hillary_clinton id_los_angeles"
+              stroke-opacity="0.69803923" stroke="#cf38e4"/>
+        <path fill="none" stroke-width="2.51"
+              d="M 68.202797,-179.199722 L 153.811722,-364.976135"
+              class="id_hillary_clinton id_marco_rubio"
+              stroke-opacity="0.69803923" stroke="#d248ec"/>
+        <path fill="none" stroke-width="2.9299998"
+              d="M 68.202797,-179.199722 L 71.898872,132.049530"
+              class="id_hillary_clinton id_mitt_romney"
+              stroke-opacity="0.69803923" stroke="#d248ec"/>
+        <path fill="none" stroke-width="1.6899999"
+              d="M 68.202797,-179.199722 L 290.587585,-80.173691"
+              class="id_hillary_clinton id_rodong_sinmun"
+              stroke-opacity="0.69803923" stroke="#d248ec"/>
+        <path fill="none" stroke-width="2.06"
+              d="M 68.202797,-179.199722 L 0.132501,-333.709686"
+              class="id_hillary_clinton id_ted_cruz" stroke-opacity="0.69803923"
+              stroke="#d248ec"/>
+        <path fill="none" stroke-width="1.9"
+              d="M -983.438904,-226.728210 L -841.745911,-155.118759"
+              class="id_hulk_hogan id_peter_thiel" stroke-opacity="0.69803923"
+              stroke="#fde5df"/>
+        <path fill="none" stroke-width="1.56"
+              d="M -857.655090,-514.988342 L -596.807007,-584.569885"
+              class="id_hunter_tootoo id_justin_trudeau"
+              stroke-opacity="0.69803923" stroke="#feebe2"/>
+        <path fill="none" stroke-width="6.87"
+              d="M 173.864532,827.176025 L -17.035828,680.419006"
+              class="id_jackie_bradley_jr id_rusney_castillo"
+              stroke-opacity="0.69803923" stroke="#fcbc76"/>
+        <path fill="none" stroke-width="5.99"
+              d="M 173.864532,827.176025 L 299.702240,583.522949"
+              class="id_jackie_bradley_jr id_shawn_armstrong"
+              stroke-opacity="0.69803923" stroke="#fcbc76"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 173.864532,827.176025 L 161.044754,666.551025"
+              class="id_jackie_bradley_jr id_terry_collins"
+              stroke-opacity="0.69803923" stroke="#fcbc76"/>
+        <path fill="none" stroke-width="1.77"
+              d="M 154.897720,-835.002502 L 220.951828,-687.053406"
+              class="id_jamar_clark id_mark_ringgenberg"
+              stroke-opacity="0.69803923" stroke="#fbc2ce"/>
+        <path fill="none" stroke-width="2.1"
+              d="M 154.897720,-835.002502 L 345.317566,-786.108521"
+              class="id_jamar_clark id_mike_freeman" stroke-opacity="0.69803923"
+              stroke="#fbc2ce"/>
+        <path fill="none" stroke-width="2.3899999"
+              d="M -536.434265,-141.033630 L -223.042999,-29.084984"
+              class="id_james_herren id_los_angeles" stroke-opacity="0.69803923"
+              stroke="#e88de1"/>
+        <path fill="none" stroke-width="7.08"
+              d="M 875.473083,-488.640686 L 575.795349,-372.558380"
+              class="id_jason_day id_jason_dufner" stroke-opacity="0.69803923"
+              stroke="#f34263"/>
+        <path fill="none" stroke-width="7.3999996"
+              d="M 875.473083,-488.640686 L 722.309448,-459.637634"
+              class="id_jason_day id_jordan_spieth" stroke-opacity="0.69803923"
+              stroke="#f34263"/>
+        <path fill="none" stroke-width="7.12"
+              d="M 875.473083,-488.640686 L 738.885376,-307.046814"
+              class="id_jason_day id_justin_rose" stroke-opacity="0.69803923"
+              stroke="#f34263"/>
+        <path fill="none" stroke-width="7.0699997"
+              d="M 875.473083,-488.640686 L 780.151306,-622.073730"
+              class="id_jason_day id_kevin_chappell" stroke-opacity="0.69803923"
+              stroke="#f34263"/>
+        <path fill="none" stroke-width="7.1"
+              d="M 875.473083,-488.640686 L 819.873535,-181.894211"
+              class="id_jason_day id_matt_kuchar" stroke-opacity="0.69803923"
+              stroke="#f34263"/>
+        <path fill="none" stroke-width="7.12"
+              d="M 875.473083,-488.640686 L 363.488159,-581.486450"
+              class="id_jason_day id_patrick_reed" stroke-opacity="0.69803923"
+              stroke="#f34263"/>
+        <path fill="none" stroke-width="7.2"
+              d="M 875.473083,-488.640686 L 661.654236,-723.568542"
+              class="id_jason_day id_rickie_fowler" stroke-opacity="0.69803923"
+              stroke="#f34263"/>
+        <path fill="none" stroke-width="7.52"
+              d="M 875.473083,-488.640686 L 679.048828,-109.044182"
+              class="id_jason_day id_rory_mcilroy" stroke-opacity="0.69803923"
+              stroke="#f34263"/>
+        <path fill="none" stroke-width="7.0699997"
+              d="M 875.473083,-488.640686 L 611.405334,-568.057495"
+              class="id_jason_day id_states_kooch" stroke-opacity="0.69803923"
+              stroke="#f34263"/>
+        <path fill="none" stroke-width="7.0699997"
+              d="M 875.473083,-488.640686 L 476.364990,-480.003784"
+              class="id_jason_day id_steve_stricker" stroke-opacity="0.69803923"
+              stroke="#f34263"/>
+        <path fill="none" stroke-width="7.1499996"
+              d="M 875.473083,-488.640686 L 589.029053,-223.004272"
+              class="id_jason_day id_tiger_woods" stroke-opacity="0.69803923"
+              stroke="#f34263"/>
+        <path fill="none" stroke-width="7.08"
+              d="M 575.795349,-372.558380 L 722.309448,-459.637634"
+              class="id_jason_dufner id_jordan_spieth"
+              stroke-opacity="0.69803923" stroke="#f34263"/>
+        <path fill="none" stroke-width="7.0699997"
+              d="M 575.795349,-372.558380 L 738.885376,-307.046814"
+              class="id_jason_dufner id_justin_rose" stroke-opacity="0.69803923"
+              stroke="#f34263"/>
+        <path fill="none" stroke-width="7.0699997"
+              d="M 575.795349,-372.558380 L 780.151306,-622.073730"
+              class="id_jason_dufner id_kevin_chappell"
+              stroke-opacity="0.69803923" stroke="#f34263"/>
+        <path fill="none" stroke-width="7.08"
+              d="M 575.795349,-372.558380 L 819.873535,-181.894211"
+              class="id_jason_dufner id_matt_kuchar" stroke-opacity="0.69803923"
+              stroke="#f34263"/>
+        <path fill="none" stroke-width="7.08"
+              d="M 575.795349,-372.558380 L 363.488159,-581.486450"
+              class="id_jason_dufner id_patrick_reed"
+              stroke-opacity="0.69803923" stroke="#f34263"/>
+        <path fill="none" stroke-width="7.08"
+              d="M 575.795349,-372.558380 L 661.654236,-723.568542"
+              class="id_jason_dufner id_rickie_fowler"
+              stroke-opacity="0.69803923" stroke="#f34263"/>
+        <path fill="none" stroke-width="7.08"
+              d="M 575.795349,-372.558380 L 679.048828,-109.044182"
+              class="id_jason_dufner id_rory_mcilroy"
+              stroke-opacity="0.69803923" stroke="#f34263"/>
+        <path fill="none" stroke-width="7.0699997"
+              d="M 575.795349,-372.558380 L 611.405334,-568.057495"
+              class="id_jason_dufner id_states_kooch"
+              stroke-opacity="0.69803923" stroke="#f34263"/>
+        <path fill="none" stroke-width="7.0699997"
+              d="M 575.795349,-372.558380 L 476.364990,-480.003784"
+              class="id_jason_dufner id_steve_stricker"
+              stroke-opacity="0.69803923" stroke="#f34263"/>
+        <path fill="none" stroke-width="7.0699997"
+              d="M 575.795349,-372.558380 L 589.029053,-223.004272"
+              class="id_jason_dufner id_tiger_woods" stroke-opacity="0.69803923"
+              stroke="#f34263"/>
+        <path fill="none" stroke-width="2.1299999"
+              d="M -922.975708,-374.492218 L -841.745911,-155.118759"
+              class="id_jeff_bezos id_peter_thiel" stroke-opacity="0.69803923"
+              stroke="#fde5df"/>
+        <path fill="none" stroke-width="2.08"
+              d="M 67.714287,534.269409 L 24.961962,352.194214"
+              class="id_jeff_daniels id_johnny_depp" stroke-opacity="0.69803923"
+              stroke="#ea99e6"/>
+        <path fill="none" stroke-width="1.5699999"
+              d="M -245.200363,-967.516479 L -332.779419,-777.012451"
+              class="id_john_cullerton id_michael_madigan"
+              stroke-opacity="0.69803923" stroke="#fddfdc"/>
+        <path fill="none" stroke-width="1.7199999"
+              d="M 914.825195,444.453857 L 788.752380,534.807983"
+              class="id_john_lethbridge id_shaker_kelada"
+              stroke-opacity="0.69803923" stroke="#fcd3d6"/>
+        <path fill="none" stroke-width="2.46"
+              d="M 914.825195,444.453857 L 656.712524,261.599670"
+              class="id_john_lethbridge id_sherif_fathi"
+              stroke-opacity="0.69803923" stroke="#fcc8d1"/>
+        <path fill="none" stroke-width="1.88"
+              d="M 24.961962,352.194214 L -223.042999,-29.084984"
+              class="id_johnny_depp id_los_angeles" stroke-opacity="0.69803923"
+              stroke="#d548eb"/>
+        <path fill="none" stroke-width="7.16"
+              d="M 722.309448,-459.637634 L 738.885376,-307.046814"
+              class="id_jordan_spieth id_justin_rose"
+              stroke-opacity="0.69803923" stroke="#f34263"/>
+        <path fill="none" stroke-width="7.14"
+              d="M 722.309448,-459.637634 L 780.151306,-622.073730"
+              class="id_jordan_spieth id_kevin_chappell"
+              stroke-opacity="0.69803923" stroke="#f34263"/>
+        <path fill="none" stroke-width="7.1499996"
+              d="M 722.309448,-459.637634 L 819.873535,-181.894211"
+              class="id_jordan_spieth id_matt_kuchar"
+              stroke-opacity="0.69803923" stroke="#f34263"/>
+        <path fill="none" stroke-width="7.1499996"
+              d="M 722.309448,-459.637634 L 363.488159,-581.486450"
+              class="id_jordan_spieth id_patrick_reed"
+              stroke-opacity="0.69803923" stroke="#f34263"/>
+        <path fill="none" stroke-width="7.33"
+              d="M 722.309448,-459.637634 L 661.654236,-723.568542"
+              class="id_jordan_spieth id_rickie_fowler"
+              stroke-opacity="0.69803923" stroke="#f34263"/>
+        <path fill="none" stroke-width="7.62"
+              d="M 722.309448,-459.637634 L 679.048828,-109.044182"
+              class="id_jordan_spieth id_rory_mcilroy"
+              stroke-opacity="0.69803923" stroke="#f34263"/>
+        <path fill="none" stroke-width="7.0699997"
+              d="M 722.309448,-459.637634 L 611.405334,-568.057495"
+              class="id_jordan_spieth id_states_kooch"
+              stroke-opacity="0.69803923" stroke="#f34263"/>
+        <path fill="none" stroke-width="7.0699997"
+              d="M 722.309448,-459.637634 L 476.364990,-480.003784"
+              class="id_jordan_spieth id_steve_stricker"
+              stroke-opacity="0.69803923" stroke="#f34263"/>
+        <path fill="none" stroke-width="7.27"
+              d="M 722.309448,-459.637634 L 589.029053,-223.004272"
+              class="id_jordan_spieth id_tiger_woods"
+              stroke-opacity="0.69803923" stroke="#f34263"/>
+        <path fill="none" stroke-width="1.9"
+              d="M -606.067627,-297.301758 L -392.402985,-523.544861"
+              class="id_justin_bieber id_kim_kardashian"
+              stroke-opacity="0.69803923" stroke="#fcd4d6"/>
+        <path fill="none" stroke-width="1.56"
+              d="M -305.903534,245.486603 L -223.042999,-29.084984"
+              class="id_justin_pritchard id_los_angeles"
+              stroke-opacity="0.69803923" stroke="#e788de"/>
+        <path fill="none" stroke-width="7.0699997"
+              d="M 738.885376,-307.046814 L 780.151306,-622.073730"
+              class="id_justin_rose id_kevin_chappell"
+              stroke-opacity="0.69803923" stroke="#f34263"/>
+        <path fill="none" stroke-width="7.08"
+              d="M 738.885376,-307.046814 L 819.873535,-181.894211"
+              class="id_justin_rose id_matt_kuchar" stroke-opacity="0.69803923"
+              stroke="#f34263"/>
+        <path fill="none" stroke-width="7.08"
+              d="M 738.885376,-307.046814 L 363.488159,-581.486450"
+              class="id_justin_rose id_patrick_reed" stroke-opacity="0.69803923"
+              stroke="#f34263"/>
+        <path fill="none" stroke-width="7.0899997"
+              d="M 738.885376,-307.046814 L 661.654236,-723.568542"
+              class="id_justin_rose id_rickie_fowler"
+              stroke-opacity="0.69803923" stroke="#f34263"/>
+        <path fill="none" stroke-width="7.14"
+              d="M 738.885376,-307.046814 L 679.048828,-109.044182"
+              class="id_justin_rose id_rory_mcilroy" stroke-opacity="0.69803923"
+              stroke="#f34263"/>
+        <path fill="none" stroke-width="7.0699997"
+              d="M 738.885376,-307.046814 L 611.405334,-568.057495"
+              class="id_justin_rose id_states_kooch" stroke-opacity="0.69803923"
+              stroke="#f34263"/>
+        <path fill="none" stroke-width="7.0699997"
+              d="M 738.885376,-307.046814 L 476.364990,-480.003784"
+              class="id_justin_rose id_steve_stricker"
+              stroke-opacity="0.69803923" stroke="#f34263"/>
+        <path fill="none" stroke-width="7.0899997"
+              d="M 738.885376,-307.046814 L 589.029053,-223.004272"
+              class="id_justin_rose id_tiger_woods" stroke-opacity="0.69803923"
+              stroke="#f34263"/>
+        <path fill="none" stroke-width="1.7099999"
+              d="M -133.153656,991.291626 L 24.849371,1004.396851"
+              class="id_kevin_bales id_roman_polanski"
+              stroke-opacity="0.69803923" stroke="#fddfdc"/>
+        <path fill="none" stroke-width="7.0699997"
+              d="M 780.151306,-622.073730 L 819.873535,-181.894211"
+              class="id_kevin_chappell id_matt_kuchar"
+              stroke-opacity="0.69803923" stroke="#f34263"/>
+        <path fill="none" stroke-width="7.0699997"
+              d="M 780.151306,-622.073730 L 363.488159,-581.486450"
+              class="id_kevin_chappell id_patrick_reed"
+              stroke-opacity="0.69803923" stroke="#f34263"/>
+        <path fill="none" stroke-width="7.0699997"
+              d="M 780.151306,-622.073730 L 661.654236,-723.568542"
+              class="id_kevin_chappell id_rickie_fowler"
+              stroke-opacity="0.69803923" stroke="#f34263"/>
+        <path fill="none" stroke-width="7.0699997"
+              d="M 780.151306,-622.073730 L 679.048828,-109.044182"
+              class="id_kevin_chappell id_rory_mcilroy"
+              stroke-opacity="0.69803923" stroke="#f34263"/>
+        <path fill="none" stroke-width="7.0699997"
+              d="M 780.151306,-622.073730 L 611.405334,-568.057495"
+              class="id_kevin_chappell id_states_kooch"
+              stroke-opacity="0.69803923" stroke="#f34263"/>
+        <path fill="none" stroke-width="7.0699997"
+              d="M 780.151306,-622.073730 L 476.364990,-480.003784"
+              class="id_kevin_chappell id_steve_stricker"
+              stroke-opacity="0.69803923" stroke="#f34263"/>
+        <path fill="none" stroke-width="7.0699997"
+              d="M 780.151306,-622.073730 L 589.029053,-223.004272"
+              class="id_kevin_chappell id_tiger_woods"
+              stroke-opacity="0.69803923" stroke="#f34263"/>
+        <path fill="none" stroke-width="1.66"
+              d="M -192.719543,636.544739 L -499.575134,496.052612"
+              class="id_kiki_bertens id_madison_keys"
+              stroke-opacity="0.69803923" stroke="#fc9289"/>
+        <path fill="none" stroke-width="2.06"
+              d="M -192.719543,636.544739 L -573.703613,353.145020"
+              class="id_kiki_bertens id_roland_garros"
+              stroke-opacity="0.69803923" stroke="#f38181"/>
+        <path fill="none" stroke-width="1.5999999"
+              d="M -192.719543,636.544739 L -367.042480,594.593201"
+              class="id_kiki_bertens id_serena_williams"
+              stroke-opacity="0.69803923" stroke="#fc8d86"/>
+        <path fill="none" stroke-width="2.01"
+              d="M -192.719543,636.544739 L -455.957916,732.027039"
+              class="id_kiki_bertens id_timea_bacsinszky"
+              stroke-opacity="0.69803923" stroke="#fc8b85"/>
+        <path fill="none" stroke-width="1.87"
+              d="M -192.719543,636.544739 L -575.663452,630.936279"
+              class="id_kiki_bertens id_venus_williams"
+              stroke-opacity="0.69803923" stroke="#fc8d86"/>
+        <path fill="none" stroke-width="1.8"
+              d="M -192.719543,636.544739 L -257.565735,476.214447"
+              class="id_kiki_bertens id_yulia_putintseva"
+              stroke-opacity="0.69803923" stroke="#fc8e87"/>
+        <path fill="none" stroke-width="1.52"
+              d="M 963.281311,279.488892 L 839.311890,6.534117"
+              class="id_lin-manuel_miranda id_michael_banks"
+              stroke-opacity="0.69803923" stroke="#fddfdc"/>
+        <path fill="none" stroke-width="4.62"
+              d="M -223.042999,-29.084984 L -474.349518,203.609360"
+              class="id_los_angeles id_rebecca_kendall"
+              stroke-opacity="0.69803923" stroke="#e88de1"/>
+        <path fill="none" stroke-width="2.77"
+              d="M 485.607117,872.343628 L 462.429047,692.264832"
+              class="id_louis_armstrong id_terry_teachout"
+              stroke-opacity="0.69803923" stroke="#feebe2"/>
+        <path fill="none" stroke-width="1.67"
+              d="M -499.575134,496.052612 L -573.703613,353.145020"
+              class="id_madison_keys id_roland_garros"
+              stroke-opacity="0.69803923" stroke="#f38583"/>
+        <path fill="none" stroke-width="1.67"
+              d="M -499.575134,496.052612 L -455.957916,732.027039"
+              class="id_madison_keys id_timea_bacsinszky"
+              stroke-opacity="0.69803923" stroke="#fc9087"/>
+        <path fill="none" stroke-width="1.55"
+              d="M -499.575134,496.052612 L -257.565735,476.214447"
+              class="id_madison_keys id_yulia_putintseva"
+              stroke-opacity="0.69803923" stroke="#fc9289"/>
+        <path fill="none" stroke-width="2.45"
+              d="M 220.951828,-687.053406 L 345.317566,-786.108521"
+              class="id_mark_ringgenberg id_mike_freeman"
+              stroke-opacity="0.69803923" stroke="#fbbdcb"/>
+        <path fill="none" stroke-width="7.0899997"
+              d="M 819.873535,-181.894211 L 363.488159,-581.486450"
+              class="id_matt_kuchar id_patrick_reed" stroke-opacity="0.69803923"
+              stroke="#f34263"/>
+        <path fill="none" stroke-width="7.0899997"
+              d="M 819.873535,-181.894211 L 661.654236,-723.568542"
+              class="id_matt_kuchar id_rickie_fowler"
+              stroke-opacity="0.69803923" stroke="#f34263"/>
+        <path fill="none" stroke-width="7.12"
+              d="M 819.873535,-181.894211 L 679.048828,-109.044182"
+              class="id_matt_kuchar id_rory_mcilroy" stroke-opacity="0.69803923"
+              stroke="#f34263"/>
+        <path fill="none" stroke-width="7.0699997"
+              d="M 819.873535,-181.894211 L 611.405334,-568.057495"
+              class="id_matt_kuchar id_states_kooch" stroke-opacity="0.69803923"
+              stroke="#f34263"/>
+        <path fill="none" stroke-width="7.0699997"
+              d="M 819.873535,-181.894211 L 476.364990,-480.003784"
+              class="id_matt_kuchar id_steve_stricker"
+              stroke-opacity="0.69803923" stroke="#f34263"/>
+        <path fill="none" stroke-width="7.0699997"
+              d="M 819.873535,-181.894211 L 589.029053,-223.004272"
+              class="id_matt_kuchar id_tiger_woods" stroke-opacity="0.69803923"
+              stroke="#f34263"/>
+        <path fill="none" stroke-width="2.23"
+              d="M -145.431549,815.922668 L 13.835304,840.927612"
+              class="id_mike_hubbard id_robert_bentley"
+              stroke-opacity="0.69803923" stroke="#feebe2"/>
+        <path fill="none" stroke-width="1.53"
+              d="M -12.972112,-835.705017 L -172.324631,-812.436096"
+              class="id_narendra_modi id_raghuram_rajan"
+              stroke-opacity="0.69803923" stroke="#fddfdc"/>
+        <path fill="none" stroke-width="1.51"
+              d="M -741.293884,346.423828 L -704.598572,47.528484"
+              class="id_novak_djokovic id_richard_gasquet"
+              stroke-opacity="0.69803923" stroke="#fa8c86"/>
+        <path fill="none" stroke-width="3.08"
+              d="M -741.293884,346.423828 L -723.000732,688.533630"
+              class="id_novak_djokovic id_roberto_bautista_agut"
+              stroke-opacity="0.69803923" stroke="#fa8583"/>
+        <path fill="none" stroke-width="3.5"
+              d="M -741.293884,346.423828 L -573.703613,353.145020"
+              class="id_novak_djokovic id_roland_garros"
+              stroke-opacity="0.69803923" stroke="#f1797d"/>
+        <path fill="none" stroke-width="2.62"
+              d="M -741.293884,346.423828 L -367.042480,594.593201"
+              class="id_novak_djokovic id_serena_williams"
+              stroke-opacity="0.69803923" stroke="#fa8583"/>
+        <path fill="none" stroke-width="1.68"
+              d="M -741.293884,346.423828 L -645.304565,196.110672"
+              class="id_novak_djokovic id_stan_wawrinka"
+              stroke-opacity="0.69803923" stroke="#fa8c86"/>
+        <path fill="none" stroke-width="1.81"
+              d="M -741.293884,346.423828 L -455.957916,732.027039"
+              class="id_novak_djokovic id_timea_bacsinszky"
+              stroke-opacity="0.69803923" stroke="#fa8482"/>
+        <path fill="none" stroke-width="1.8"
+              d="M -741.293884,346.423828 L -838.956543,565.788757"
+              class="id_novak_djokovic id_tomas_berdych"
+              stroke-opacity="0.69803923" stroke="#fa8b85"/>
+        <path fill="none" stroke-width="1.65"
+              d="M -741.293884,346.423828 L -575.663452,630.936279"
+              class="id_novak_djokovic id_venus_williams"
+              stroke-opacity="0.69803923" stroke="#fa8583"/>
+        <path fill="none" stroke-width="7.1499996"
+              d="M 363.488159,-581.486450 L 661.654236,-723.568542"
+              class="id_patrick_reed id_rickie_fowler"
+              stroke-opacity="0.69803923" stroke="#f34263"/>
+        <path fill="none" stroke-width="7.14"
+              d="M 363.488159,-581.486450 L 679.048828,-109.044182"
+              class="id_patrick_reed id_rory_mcilroy"
+              stroke-opacity="0.69803923" stroke="#f34263"/>
+        <path fill="none" stroke-width="7.0699997"
+              d="M 363.488159,-581.486450 L 611.405334,-568.057495"
+              class="id_patrick_reed id_states_kooch"
+              stroke-opacity="0.69803923" stroke="#f34263"/>
+        <path fill="none" stroke-width="7.0699997"
+              d="M 363.488159,-581.486450 L 476.364990,-480.003784"
+              class="id_patrick_reed id_steve_stricker"
+              stroke-opacity="0.69803923" stroke="#f34263"/>
+        <path fill="none" stroke-width="7.0699997"
+              d="M 363.488159,-581.486450 L 589.029053,-223.004272"
+              class="id_patrick_reed id_tiger_woods" stroke-opacity="0.69803923"
+              stroke="#f34263"/>
+        <path fill="none" stroke-width="1.5899999"
+              d="M -172.324631,-812.436096 L -91.093895,-995.277710"
+              class="id_raghuram_rajan id_subramanian_swamy"
+              stroke-opacity="0.69803923" stroke="#fde5df"/>
+        <path fill="none" stroke-width="1.56"
+              d="M -699.759521,-455.214722 L -770.299744,-304.288025"
+              class="id_rahul_gandhi id_sonia_gandhi"
+              stroke-opacity="0.69803923" stroke="#feebe2"/>
+        <path fill="none" stroke-width="1.5999999"
+              d="M -704.598572,47.528484 L -573.703613,353.145020"
+              class="id_richard_gasquet id_roland_garros"
+              stroke-opacity="0.69803923" stroke="#f38784"/>
+        <path fill="none" stroke-width="1.52"
+              d="M -704.598572,47.528484 L -645.304565,196.110672"
+              class="id_richard_gasquet id_stan_wawrinka"
+              stroke-opacity="0.69803923" stroke="#fc9a8d"/>
+        <path fill="none" stroke-width="7.3399997"
+              d="M 661.654236,-723.568542 L 679.048828,-109.044182"
+              class="id_rickie_fowler id_rory_mcilroy"
+              stroke-opacity="0.69803923" stroke="#f34263"/>
+        <path fill="none" stroke-width="7.0699997"
+              d="M 661.654236,-723.568542 L 611.405334,-568.057495"
+              class="id_rickie_fowler id_states_kooch"
+              stroke-opacity="0.69803923" stroke="#f34263"/>
+        <path fill="none" stroke-width="7.0699997"
+              d="M 661.654236,-723.568542 L 476.364990,-480.003784"
+              class="id_rickie_fowler id_steve_stricker"
+              stroke-opacity="0.69803923" stroke="#f34263"/>
+        <path fill="none" stroke-width="7.17"
+              d="M 661.654236,-723.568542 L 589.029053,-223.004272"
+              class="id_rickie_fowler id_tiger_woods"
+              stroke-opacity="0.69803923" stroke="#f34263"/>
+        <path fill="none" stroke-width="2.9199998"
+              d="M -723.000732,688.533630 L -573.703613,353.145020"
+              class="id_roberto_bautista_agut id_roland_garros"
+              stroke-opacity="0.69803923" stroke="#f38080"/>
+        <path fill="none" stroke-width="1.9599999"
+              d="M -723.000732,688.533630 L -367.042480,594.593201"
+              class="id_roberto_bautista_agut id_serena_williams"
+              stroke-opacity="0.69803923" stroke="#fc8c86"/>
+        <path fill="none" stroke-width="1.61"
+              d="M -723.000732,688.533630 L -455.957916,732.027039"
+              class="id_roberto_bautista_agut id_timea_bacsinszky"
+              stroke-opacity="0.69803923" stroke="#fc8a85"/>
+        <path fill="none" stroke-width="1.5999999"
+              d="M -723.000732,688.533630 L -838.956543,565.788757"
+              class="id_roberto_bautista_agut id_tomas_berdych"
+              stroke-opacity="0.69803923" stroke="#fc9188"/>
+        <path fill="none" stroke-width="1.54"
+              d="M -723.000732,688.533630 L -575.663452,630.936279"
+              class="id_roberto_bautista_agut id_venus_williams"
+              stroke-opacity="0.69803923" stroke="#fc8c86"/>
+        <path fill="none" stroke-width="2.99"
+              d="M -573.703613,353.145020 L -367.042480,594.593201"
+              class="id_roland_garros id_serena_williams"
+              stroke-opacity="0.69803923" stroke="#f38080"/>
+        <path fill="none" stroke-width="1.81"
+              d="M -573.703613,353.145020 L -645.304565,196.110672"
+              class="id_roland_garros id_stan_wawrinka"
+              stroke-opacity="0.69803923" stroke="#f38784"/>
+        <path fill="none" stroke-width="2.54"
+              d="M -573.703613,353.145020 L -455.957916,732.027039"
+              class="id_roland_garros id_timea_bacsinszky"
+              stroke-opacity="0.69803923" stroke="#f37e7f"/>
+        <path fill="none" stroke-width="1.8299999"
+              d="M -573.703613,353.145020 L -838.956543,565.788757"
+              class="id_roland_garros id_tomas_berdych"
+              stroke-opacity="0.69803923" stroke="#f38583"/>
+        <path fill="none" stroke-width="1.68"
+              d="M -573.703613,353.145020 L -688.973022,-117.637238"
+              class="id_roland_garros id_tsvetana_pironkova"
+              stroke-opacity="0.69803923" stroke="#f48b86"/>
+        <path fill="none" stroke-width="2.19"
+              d="M -573.703613,353.145020 L -575.663452,630.936279"
+              class="id_roland_garros id_venus_williams"
+              stroke-opacity="0.69803923" stroke="#f38080"/>
+        <path fill="none" stroke-width="2.09"
+              d="M -573.703613,353.145020 L -257.565735,476.214447"
+              class="id_roland_garros id_yulia_putintseva"
+              stroke-opacity="0.69803923" stroke="#f38181"/>
+        <path fill="none" stroke-width="7.0699997"
+              d="M 679.048828,-109.044182 L 611.405334,-568.057495"
+              class="id_rory_mcilroy id_states_kooch"
+              stroke-opacity="0.69803923" stroke="#f34263"/>
+        <path fill="none" stroke-width="7.0699997"
+              d="M 679.048828,-109.044182 L 476.364990,-480.003784"
+              class="id_rory_mcilroy id_steve_stricker"
+              stroke-opacity="0.69803923" stroke="#f34263"/>
+        <path fill="none" stroke-width="7.27"
+              d="M 679.048828,-109.044182 L 589.029053,-223.004272"
+              class="id_rory_mcilroy id_tiger_woods" stroke-opacity="0.69803923"
+              stroke="#f34263"/>
+        <path fill="none" stroke-width="5.99"
+              d="M -17.035828,680.419006 L 299.702240,583.522949"
+              class="id_rusney_castillo id_shawn_armstrong"
+              stroke-opacity="0.69803923" stroke="#fcbc76"/>
+        <path fill="none" stroke-width="5.99"
+              d="M -17.035828,680.419006 L 161.044754,666.551025"
+              class="id_rusney_castillo id_terry_collins"
+              stroke-opacity="0.69803923" stroke="#fcbc76"/>
+        <path fill="none" stroke-width="1.9699999"
+              d="M -367.042480,594.593201 L -455.957916,732.027039"
+              class="id_serena_williams id_timea_bacsinszky"
+              stroke-opacity="0.69803923" stroke="#fc8a85"/>
+        <path fill="none" stroke-width="1.7099999"
+              d="M -367.042480,594.593201 L -575.663452,630.936279"
+              class="id_serena_williams id_venus_williams"
+              stroke-opacity="0.69803923" stroke="#fc8c86"/>
+        <path fill="none" stroke-width="1.7199999"
+              d="M -367.042480,594.593201 L -257.565735,476.214447"
+              class="id_serena_williams id_yulia_putintseva"
+              stroke-opacity="0.69803923" stroke="#fc8d86"/>
+        <path fill="none" stroke-width="1.66"
+              d="M 788.752380,534.807983 L 656.712524,261.599670"
+              class="id_shaker_kelada id_sherif_fathi"
+              stroke-opacity="0.69803923" stroke="#fcd3d6"/>
+        <path fill="none" stroke-width="5.99"
+              d="M 299.702240,583.522949 L 161.044754,666.551025"
+              class="id_shawn_armstrong id_terry_collins"
+              stroke-opacity="0.69803923" stroke="#fcbc76"/>
+        <path fill="none" stroke-width="7.0699997"
+              d="M 611.405334,-568.057495 L 476.364990,-480.003784"
+              class="id_states_kooch id_steve_stricker"
+              stroke-opacity="0.69803923" stroke="#f34263"/>
+        <path fill="none" stroke-width="7.0699997"
+              d="M 611.405334,-568.057495 L 589.029053,-223.004272"
+              class="id_states_kooch id_tiger_woods" stroke-opacity="0.69803923"
+              stroke="#f34263"/>
+        <path fill="none" stroke-width="7.0699997"
+              d="M 476.364990,-480.003784 L 589.029053,-223.004272"
+              class="id_steve_stricker id_tiger_woods"
+              stroke-opacity="0.69803923" stroke="#f34263"/>
+        <path fill="none" stroke-width="2.11"
+              d="M -455.957916,732.027039 L -575.663452,630.936279"
+              class="id_timea_bacsinszky id_venus_williams"
+              stroke-opacity="0.69803923" stroke="#fc8a85"/>
+        <path fill="none" stroke-width="1.9799999"
+              d="M -455.957916,732.027039 L -257.565735,476.214447"
+              class="id_timea_bacsinszky id_yulia_putintseva"
+              stroke-opacity="0.69803923" stroke="#fc8b85"/>
+        <path fill="none" stroke-width="1.64"
+              d="M -575.663452,630.936279 L -257.565735,476.214447"
+              class="id_venus_williams id_yulia_putintseva"
+              stroke-opacity="0.69803923" stroke="#fc8d86"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#fcd4d6" r="12.608696" cx="-392.49347"
+                class="id_aareon_jefferson" cy="-84.295074" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fddfdc" r="11.304348" cx="-536.43427"
+                class="id_james_herren" cy="-141.03363" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d33ce6" r="26.956522" cx="-223.043"
+                class="id_los_angeles" cy="-29.084984" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fddfdc" r="11.304348" cx="-474.34952"
+                class="id_rebecca_kendall" cy="203.60936" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f34263" r="29.565218" cx="903.5804"
+                class="id_abu_dhabi" cy="-342.48508" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f34263" r="29.565218" cx="495.20053"
+                class="id_bubba_watson" cy="-674.7669" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f34263" r="29.565218" cx="409.214"
+                class="id_david_lingmerth" cy="-299.34207" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f34263" r="29.565218" cx="323.78558"
+                class="id_dustin_johnson" cy="-420.53918" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f34263" r="29.565218" cx="454.57996"
+                class="id_hideki_matsuyama" cy="-157.96776" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f34263" r="29.565218" cx="875.4731"
+                class="id_jason_day" cy="-488.6407" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f34263" r="29.565218" cx="575.79535"
+                class="id_jason_dufner" cy="-372.55838" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f34263" r="29.565218" cx="722.30945"
+                class="id_jordan_spieth" cy="-459.63763" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f34263" r="29.565218" cx="738.8854"
+                class="id_justin_rose" cy="-307.0468" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f34263" r="29.565218" cx="780.1513"
+                class="id_kevin_chappell" cy="-622.0737" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f34263" r="29.565218" cx="819.87354"
+                class="id_matt_kuchar" cy="-181.89421" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f34263" r="29.565218" cx="363.48816"
+                class="id_patrick_reed" cy="-581.48645" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f34263" r="29.565218" cx="661.65424"
+                class="id_rickie_fowler" cy="-723.56854" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f34263" r="29.565218" cx="679.0488"
+                class="id_rory_mcilroy" cy="-109.04418" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f34263" r="29.565218" cx="611.40533"
+                class="id_states_kooch" cy="-568.0575" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f34263" r="29.565218" cx="476.365"
+                class="id_steve_stricker" cy="-480.00378" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f34263" r="29.565218" cx="589.02905"
+                class="id_tiger_woods" cy="-223.00427" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fcd4d6" r="12.608696" cx="-167.30171"
+                class="id_alina_hartounian" cy="336.3248" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fcd4d6" r="12.608696" cx="-365.35007"
+                class="id_amanda_lee_myers" cy="78.94878" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fcd4d6" r="12.608696" cx="-305.90353"
+                class="id_justin_pritchard" cy="245.4866" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fddfdc" r="11.304348" cx="-57.813732"
+                class="id_amber_heard" cy="215.79549" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d854f1" r="15.217392" cx="24.961962"
+                class="id_johnny_depp" cy="352.1942" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fcc8d1" r="13.913044" cx="232.28096"
+                class="id_andrew_luger" cy="-974.3059" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fbbdcb" r="15.217392" cx="388.17834"
+                class="id_dustin_schwarze" cy="-931.3157" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fcc8d1" r="13.913044" cx="154.89772"
+                class="id_jamar_clark" cy="-835.0025" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fbbdcb" r="15.217392" cx="220.95183"
+                class="id_mark_ringgenberg" cy="-687.0534" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fbbdcb" r="15.217392" cx="345.31757"
+                class="id_mike_freeman" cy="-786.1085" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc9a8d" r="13.913044" cx="-540.9972"
+                class="id_andy_murray" cy="38.802406" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f87f80" r="26.956522" cx="-741.2939"
+                class="id_novak_djokovic" cy="346.42383" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc9a8d" r="13.913044" cx="-704.5986"
+                class="id_richard_gasquet" cy="47.528484" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#eb747b" r="33.47826" cx="-573.7036"
+                class="id_roland_garros" cy="353.14502" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc9a8d" r="13.913044" cx="-645.30457"
+                class="id_stan_wawrinka" cy="196.11067" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fddfdc" r="11.304348" cx="-1006.95404"
+                class="id_angela_merkel" cy="-56.093502" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fddfdc" r="11.304348" cx="-860.2357"
+                class="id_francois_hollande" cy="18.576319" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fddfdc" r="11.304348" cx="-998.50397"
+                class="id_matteo_renzi" cy="117.889435" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#feebe2" r="10.0" cx="68.534744"
+                class="id_arun_jaitley" cy="-1000.14374" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fddfdc" r="11.304348" cx="-12.972112"
+                class="id_narendra_modi" cy="-835.705" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fcd4d6" r="12.608696" cx="822.3238"
+                class="id_atlantic_ocean" cy="183.45335" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fcd4d6" r="12.608696" cx="782.723"
+                class="id_david_learmount" cy="353.8558" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fcc8d1" r="13.913044" cx="914.8252"
+                class="id_john_lethbridge" cy="444.45386" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fcc8d1" r="13.913044" cx="656.7125"
+                class="id_sherif_fathi" cy="261.59967" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d846eb" r="21.73913" cx="-304.34943"
+                class="id_barack_obama" cy="-380.49756" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d851f0" r="16.52174" cx="-265.75845"
+                class="id_bernie_sanders" cy="-197.66176" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d854f1" r="15.217392" cx="-151.0379"
+                class="id_bill_clinton" cy="-317.1896" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fcd4d6" r="12.608696" cx="-515.272"
+                class="id_daniel_peters" cy="-431.6824" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d859f4" r="12.608696" cx="-170.53674"
+                class="id_david_cameron" cy="-487.87555" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ba26dd" r="40.0" cx="118.67928"
+                class="id_donald_trump" cy="-38.910736" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#cc35e3" r="30.869566" cx="68.2028"
+                class="id_hillary_clinton" cy="-179.19972" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#feebe2" r="10.0" cx="-271.30405"
+                class="id_josh_earnest" cy="-625.3126" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fcd4d6" r="12.608696" cx="-606.0676"
+                class="id_justin_bieber" cy="-297.30176" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fcd4d6" r="12.608696" cx="-392.40298"
+                class="id_kim_kardashian" cy="-523.54486" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fddfdc" r="11.304348" cx="-85.47829"
+                class="id_barnaby_joyce" cy="496.9469" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fddfdc" r="11.304348" cx="67.71429"
+                class="id_jeff_daniels" cy="534.2694" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#feebe2" r="10.0" cx="755.3852"
+                class="id_benigno_aquino" cy="682.4254" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fddfdc" r="11.304348" cx="607.4836"
+                class="id_rodrigo_duterte" cy="605.4024" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#feebe2" r="10.0" cx="386.07407"
+                class="id_bernie_sander" cy="54.19966" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d857f3" r="13.913044" cx="-94.17936"
+                class="id_jerry_brown" cy="-151.85611" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fcd4d6" r="12.608696" cx="536.71484"
+                class="id_betsy_hodges" cy="-851.29047" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fddfdc" r="11.304348" cx="-108.49821"
+                class="id_boris_johnson" cy="-656.50104" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#feebe2" r="10.0" cx="50.529335"
+                class="id_michael_gove" cy="-674.0446" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fddfdc" r="11.304348" cx="-398.24258"
+                class="id_bruce_rauner" cy="-925.97076" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fddfdc" r="11.304348" cx="-245.20036"
+                class="id_john_cullerton" cy="-967.5165" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fddfdc" r="11.304348" cx="-332.77942"
+                class="id_michael_madigan" cy="-777.01245" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#feebe2" r="10.0" cx="-466.9414"
+                class="id_cameron_smith" cy="-679.6161" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#feebe2" r="10.0" cx="-530.999"
+                class="id_johnathan_thurston" cy="-840.8255" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc9189" r="17.826088" cx="-300.20676"
+                class="id_carla_suarez_navarro" cy="768.17944" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc8984" r="21.73913" cx="-393.72046"
+                class="id_elina_svitolina" cy="383.3982" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc8e87" r="19.130434" cx="-192.71954"
+                class="id_kiki_bertens" cy="636.54474" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc8c86" r="20.434784" cx="-367.04248"
+                class="id_serena_williams" cy="594.5932" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc8984" r="21.73913" cx="-455.95792"
+                class="id_timea_bacsinszky" cy="732.02704" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc8c86" r="20.434784" cx="-575.66345"
+                class="id_venus_williams" cy="630.9363" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc8e87" r="19.130434" cx="-257.56573"
+                class="id_yulia_putintseva" cy="476.21445" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#feebe2" r="10.0" cx="994.9759"
+                class="id_carole_smith" cy="-196.61757" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#feebe2" r="10.0" cx="997.68225"
+                class="id_kate_brown" cy="-37.620956" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#feebe2" r="10.0" cx="-427.60214"
+                class="id_charlie_beck" cy="-275.67844" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fddfdc" r="11.304348" cx="-282.93625"
+                class="id_charlotte_schmitz" cy="953.7807" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fddfdc" r="11.304348" cx="-133.15366"
+                class="id_kevin_bales" cy="991.2916" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fddfdc" r="11.304348" cx="24.849371"
+                class="id_roman_polanski" cy="1004.39685" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#feebe2" r="10.0" cx="459.61124"
+                class="id_corey_jones" cy="517.7256" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#feebe2" r="10.0" cx="627.5182"
+                class="id_nouman_raja" cy="441.60016" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d859f4" r="12.608696" cx="231.74266"
+                class="id_corey_lewandowski" cy="94.69631" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d859f4" r="12.608696" cx="532.6697"
+                class="id_jonathan_lemire" cy="1.5753793" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fd9f90" r="11.304348" cx="-962.5738"
+                class="id_david_ferrer" cy="279.71942" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d95cf5" r="11.304348" cx="161.04732"
+                class="id_david_french" cy="-526.87366" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc948a" r="16.52174" cx="-896.27856"
+                class="id_david_goffin" cy="418.64636" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc978b" r="15.217392" cx="-692.8268"
+                class="id_dominic_thiem" cy="498.66797" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc9c8e" r="12.608696" cx="-822.8239"
+                class="id_ernests_gulbis" cy="195.12206" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc8c86" r="20.434784" cx="-723.00073"
+                class="id_roberto_bautista_agut" cy="688.5336" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc978b" r="15.217392" cx="-838.95654"
+                class="id_tomas_berdych" cy="565.78876" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fcbc76" r="13.913044" cx="321.53348"
+                class="id_david_wright" cy="761.25934" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fcbc76" r="13.913044" cx="173.86453"
+                class="id_jackie_bradley_jr" cy="827.176" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fcbc76" r="13.913044" cx="-17.035828"
+                class="id_rusney_castillo" cy="680.419" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fcbc76" r="13.913044" cx="299.70224"
+                class="id_shawn_armstrong" cy="583.52295" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fcbc76" r="13.913044" cx="161.04475"
+                class="id_terry_collins" cy="666.551" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#feebe2" r="10.0" cx="-189.02475"
+                class="id_denise_aberle" cy="127.531944" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#feebe2" r="10.0" cx="189.7288"
+                class="id_dilma_rousseff" cy="989.5434" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#feebe2" r="10.0" cx="343.4935"
+                class="id_michel_temer" cy="938.279" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d95cf5" r="11.304348" cx="-5.140638"
+                class="id_gary_johnson" cy="-500.4092" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d95cf5" r="11.304348" cx="-48.842564"
+                class="id_george_w_bush" cy="10.018511" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d859f4" r="12.608696" cx="179.05826"
+                class="id_gonzalo_curiel" cy="265.18042" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d95ff7" r="10.0" cx="185.95871"
+                class="id_jeff_horwitz" cy="434.66547" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d95ff7" r="10.0" cx="334.72443"
+                class="id_jill_colvin" cy="399.77286" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d95cf5" r="11.304348" cx="489.15265"
+                class="id_jill_martin" cy="338.02023" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d95ff7" r="10.0" cx="518.79596"
+                class="id_john_mccain" cy="171.16031" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d95cf5" r="11.304348" cx="153.81172"
+                class="id_marco_rubio" cy="-364.97614" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d95cf5" r="11.304348" cx="71.89887"
+                class="id_mitt_romney" cy="132.04953" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d95ff7" r="10.0" cx="347.6354"
+                class="id_paul_ryan" cy="230.62292" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d95cf5" r="11.304348" cx="290.5876"
+                class="id_rodong_sinmun" cy="-80.17369" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d95cf5" r="11.304348" cx="0.13250059"
+                class="id_ted_cruz" cy="-333.7097" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d95ff7" r="10.0" cx="234.29086"
+                class="id_tom_llamas" cy="-225.09688" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#feebe2" r="10.0" cx="-766.51324"
+                class="id_dow_jones_factiva" cy="-641.8947" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#feebe2" r="10.0" cx="-656.9874"
+                class="id_gothenburg_bancshares" cy="-753.6934" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc978b" r="15.217392" cx="-499.57513"
+                class="id_madison_keys" cy="496.0526" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fcd4d6" r="12.608696" cx="990.09204"
+                class="id_emily_blunt" cy="120.66984" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#feebe2" r="10.0" cx="687.7967"
+                class="id_julie_andrews" cy="81.95762" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fddfdc" r="11.304348" cx="963.2813"
+                class="id_lin-manuel_miranda" cy="279.4889" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fddfdc" r="11.304348" cx="839.3119"
+                class="id_michael_banks" cy="6.534117" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#feebe2" r="10.0" cx="619.2999"
+                class="id_ferdinand_marcos" cy="786.2568" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#feebe2" r="10.0" cx="-598.5122"
+                class="id_gail_myers" cy="822.23285" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#feebe2" r="10.0" cx="-436.78152"
+                class="id_thane_maynard" cy="907.4516" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#feebe2" r="10.0" cx="-983.4389"
+                class="id_hulk_hogan" cy="-226.72821" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fddfdc" r="11.304348" cx="-841.7459"
+                class="id_peter_thiel" cy="-155.11876" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#feebe2" r="10.0" cx="-857.6551"
+                class="id_hunter_tootoo" cy="-514.98834" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#feebe2" r="10.0" cx="-596.807"
+                class="id_justin_trudeau" cy="-584.5699" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#feebe2" r="10.0" cx="-922.9757"
+                class="id_jeff_bezos" cy="-374.49222" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fddfdc" r="11.304348" cx="788.7524"
+                class="id_shaker_kelada" cy="534.808" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#feebe2" r="10.0" cx="485.60712"
+                class="id_louis_armstrong" cy="872.3436" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#feebe2" r="10.0" cx="462.42905"
+                class="id_terry_teachout" cy="692.26483" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#feebe2" r="10.0" cx="-145.43155"
+                class="id_mike_hubbard" cy="815.92267" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#feebe2" r="10.0" cx="13.835304"
+                class="id_robert_bentley" cy="840.9276" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fddfdc" r="11.304348" cx="-172.32463"
+                class="id_raghuram_rajan" cy="-812.4361" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#feebe2" r="10.0" cx="-91.093895"
+                class="id_subramanian_swamy" cy="-995.2777" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#feebe2" r="10.0" cx="-699.7595"
+                class="id_rahul_gandhi" cy="-455.21472" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#feebe2" r="10.0" cx="-770.29974"
+                class="id_sonia_gandhi" cy="-304.28802" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fea291" r="10.0" cx="-688.973"
+                class="id_tsvetana_pironkova" cy="-117.63724" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="25" x="-392.49347" y="-78.42757" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_aareon_jefferson">
+            aareon jefferson
+        </text>
+        <text font-size="23" x="-536.43427" y="-135.70665" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_james_herren">
+            james herren
+        </text>
+        <text font-size="54" x="-223.043" y="-16.578148" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_los_angeles">
+            los angeles
+        </text>
+        <text font-size="23" x="-474.34952" y="207.79271" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_rebecca_kendall">
+            rebecca kendall
+        </text>
+        <text font-size="59" x="903.5804" y="-331.75388" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_abu_dhabi">
+            abu dhabi
+        </text>
+        <text font-size="59" x="495.20053" y="-664.0357" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_bubba_watson">
+            bubba watson
+        </text>
+        <text font-size="59" x="409.214" y="-285.6772" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_david_lingmerth">
+            david lingmerth
+        </text>
+        <text font-size="59" x="323.78558" y="-406.8743" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_dustin_johnson">
+            dustin johnson
+        </text>
+        <text font-size="59" x="454.57996" y="-144.30289" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_hideki_matsuyama">
+            hideki matsuyama
+        </text>
+        <text font-size="59" x="875.4731" y="-474.9758" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_jason_day">
+            jason day
+        </text>
+        <text font-size="59" x="575.79535" y="-358.71106" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_jason_dufner">
+            jason dufner
+        </text>
+        <text font-size="59" x="722.30945" y="-445.97275" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_jordan_spieth">
+            jordan spieth
+        </text>
+        <text font-size="59" x="738.8854" y="-293.38193" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_justin_rose">
+            justin rose
+        </text>
+        <text font-size="59" x="780.1513" y="-608.5817" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_kevin_chappell">
+            kevin chappell
+        </text>
+        <text font-size="59" x="819.87354" y="-171.16301" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_matt_kuchar">
+            matt kuchar
+        </text>
+        <text font-size="59" x="363.48816" y="-567.99445" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_patrick_reed">
+            patrick reed
+        </text>
+        <text font-size="59" x="661.65424" y="-712.6549" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_rickie_fowler">
+            rickie fowler
+        </text>
+        <text font-size="59" x="679.0488" y="-95.3793" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_rory_mcilroy">
+            rory mcilroy
+        </text>
+        <text font-size="59" x="611.40533" y="-557.3263" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_states_kooch">
+            states kooch
+        </text>
+        <text font-size="59" x="476.365" y="-469.27258" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_steve_stricker">
+            steve stricker
+        </text>
+        <text font-size="59" x="589.02905" y="-209.3394" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_tiger_woods">
+            tiger woods
+        </text>
+        <text font-size="25" x="-167.30171" y="340.87192" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_alina_hartounian">
+            alina hartounian
+        </text>
+        <text font-size="25" x="-365.35007" y="84.738976" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_amanda_lee_myers">
+            amanda lee myers
+        </text>
+        <text font-size="25" x="-305.90353" y="251.27681" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_justin_pritchard">
+            justin pritchard
+        </text>
+        <text font-size="23" x="-57.813732" y="219.97884" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_amber_heard">
+            amber heard
+        </text>
+        <text font-size="30" x="24.961962" y="359.14246" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_johnny_depp">
+            johnny depp
+        </text>
+        <text font-size="28" x="232.28096" y="-967.82086" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_andrew_luger">
+            andrew luger
+        </text>
+        <text font-size="30" x="388.17834" y="-925.85913" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_dustin_schwarze">
+            dustin schwarze
+        </text>
+        <text font-size="28" x="154.89772" y="-828.51746" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_jamar_clark">
+            jamar clark
+        </text>
+        <text font-size="30" x="220.95183" y="-680.10516" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_mark_ringgenberg">
+            mark ringgenberg
+        </text>
+        <text font-size="30" x="345.31757" y="-780.5592" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_mike_freeman">
+            mike freeman
+        </text>
+        <text font-size="28" x="-540.9972" y="45.287434" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_andy_murray">
+            andy murray
+        </text>
+        <text font-size="54" x="-741.2939" y="358.93066" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_novak_djokovic">
+            novak djokovic
+        </text>
+        <text font-size="28" x="-704.5986" y="54.01351" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_richard_gasquet">
+            richard gasquet
+        </text>
+        <text font-size="67" x="-573.7036" y="368.66275" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_roland_garros">
+            roland garros
+        </text>
+        <text font-size="28" x="-645.30457" y="201.20345" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_stan_wawrinka">
+            stan wawrinka
+        </text>
+        <text font-size="23" x="-1006.95404" y="-50.766518" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_angela_merkel">
+            angela merkel
+        </text>
+        <text font-size="23" x="-860.2357" y="22.830795" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_francois_hollande">
+            francois hollande
+        </text>
+        <text font-size="23" x="-998.50397" y="122.072784" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_matteo_renzi">
+            matteo renzi
+        </text>
+        <text font-size="20" x="68.534744" y="-995.5116" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_arun_jaitley">
+            arun jaitley
+        </text>
+        <text font-size="23" x="-12.972112" y="-831.52167" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_narendra_modi">
+            narendra modi
+        </text>
+        <text font-size="25" x="822.3238" y="188.00047" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_atlantic_ocean">
+            atlantic ocean
+        </text>
+        <text font-size="25" x="782.723" y="358.40292" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_david_learmount">
+            david learmount
+        </text>
+        <text font-size="28" x="914.8252" y="450.93887" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_john_lethbridge">
+            john lethbridge
+        </text>
+        <text font-size="28" x="656.7125" y="266.77902" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_sherif_fathi">
+            sherif fathi
+        </text>
+        <text font-size="43" x="-304.34943" y="-372.6765" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_barack_obama">
+            barack obama
+        </text>
+        <text font-size="33" x="-265.75845" y="-191.65956" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_bernie_sanders">
+            bernie sanders
+        </text>
+        <text font-size="30" x="-151.0379" y="-311.73306" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_bill_clinton">
+            bill clinton
+        </text>
+        <text font-size="25" x="-515.272" y="-425.96545" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_daniel_peters">
+            daniel peters
+        </text>
+        <text font-size="25" x="-170.53674" y="-483.32843" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_david_cameron">
+            david cameron
+        </text>
+        <text font-size="80" x="118.67928" y="-20.616465" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_donald_trump">
+            donald trump
+        </text>
+        <text font-size="62" x="68.2028" y="-164.84003" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_hillary_clinton">
+            hillary clinton
+        </text>
+        <text font-size="20" x="-271.30405" y="-620.6805" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_josh_earnest">
+            josh earnest
+        </text>
+        <text font-size="25" x="-606.0676" y="-291.51157" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_justin_bieber">
+            justin bieber
+        </text>
+        <text font-size="25" x="-392.40298" y="-518.99774" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_kim_kardashian">
+            kim kardashian
+        </text>
+        <text font-size="23" x="-85.47829" y="502.2739" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_barnaby_joyce">
+            barnaby joyce
+        </text>
+        <text font-size="23" x="67.71429" y="539.6675" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_jeff_daniels">
+            jeff daniels
+        </text>
+        <text font-size="20" x="755.3852" y="687.05756" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_benigno_aquino">
+            benigno aquino
+        </text>
+        <text font-size="23" x="607.4836" y="610.7294" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_rodrigo_duterte">
+            rodrigo duterte
+        </text>
+        <text font-size="20" x="386.07407" y="57.837357" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_bernie_sander">
+            bernie sander
+        </text>
+        <text font-size="28" x="-94.17936" y="-145.37108" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_jerry_brown">
+            jerry brown
+        </text>
+        <text font-size="25" x="536.71484" y="-845.50024" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_betsy_hodges">
+            betsy hodges
+        </text>
+        <text font-size="23" x="-108.49821" y="-651.1741" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_boris_johnson">
+            boris johnson
+        </text>
+        <text font-size="20" x="50.529335" y="-669.4125" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_michael_gove">
+            michael gove
+        </text>
+        <text font-size="23" x="-398.24258" y="-921.7874" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_bruce_rauner">
+            bruce rauner
+        </text>
+        <text font-size="23" x="-245.20036" y="-962.1895" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_john_cullerton">
+            john cullerton
+        </text>
+        <text font-size="23" x="-332.77942" y="-771.6855" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_michael_madigan">
+            michael madigan
+        </text>
+        <text font-size="20" x="-466.9414" y="-675.9784" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_cameron_smith">
+            cameron smith
+        </text>
+        <text font-size="20" x="-530.999" y="-836.19336" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_johnathan_thurston">
+            johnathan thurs...
+        </text>
+        <text font-size="36" x="-300.20676" y="774.7273" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_carla_suarez_navarro">
+            carla suarez na...
+        </text>
+        <text font-size="43" x="-393.72046" y="391.21924" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_elina_svitolina">
+            elina svitolina
+        </text>
+        <text font-size="38" x="-192.71954" y="643.45636" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_kiki_bertens">
+            kiki bertens
+        </text>
+        <text font-size="41" x="-367.04248" y="602.0505" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_serena_williams">
+            serena williams
+        </text>
+        <text font-size="43" x="-455.95792" y="741.9862" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_timea_bacsinszky">
+            timea bacsinszky
+        </text>
+        <text font-size="41" x="-575.66345" y="638.39355" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_venus_williams">
+            venus williams
+        </text>
+        <text font-size="38" x="-257.56573" y="485.01556" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_yulia_putintseva">
+            yulia putintseva
+        </text>
+        <text font-size="20" x="994.9759" y="-192.97987" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_carole_smith">
+            carole smith
+        </text>
+        <text font-size="20" x="997.68225" y="-33.98326" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_kate_brown">
+            kate brown
+        </text>
+        <text font-size="20" x="-427.60214" y="-272.04074" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_charlie_beck">
+            charlie beck
+        </text>
+        <text font-size="23" x="-282.93625" y="957.96405" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_charlotte_schmitz">
+            charlotte schmitz
+        </text>
+        <text font-size="23" x="-133.15366" y="995.475" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_kevin_bales">
+            kevin bales
+        </text>
+        <text font-size="23" x="24.849371" y="1009.65643" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_roman_polanski">
+            roman polanski
+        </text>
+        <text font-size="20" x="459.61124" y="522.3577" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_corey_jones">
+            corey jones
+        </text>
+        <text font-size="20" x="627.5182" y="446.23233" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_nouman_raja">
+            nouman raja
+        </text>
+        <text font-size="25" x="231.74266" y="100.48651" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_corey_lewandowski">
+            corey lewandowski
+        </text>
+        <text font-size="25" x="532.6697" y="7.3655815" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_jonathan_lemire">
+            jonathan lemire
+        </text>
+        <text font-size="23" x="-962.5738" y="283.9739" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_david_ferrer">
+            david ferrer
+        </text>
+        <text font-size="23" x="161.04732" y="-522.6192" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_david_french">
+            david french
+        </text>
+        <text font-size="33" x="-896.27856" y="426.39148" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_david_goffin">
+            david goffin
+        </text>
+        <text font-size="30" x="-692.8268" y="504.1245" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_dominic_thiem">
+            dominic thiem
+        </text>
+        <text font-size="25" x="-822.8239" y="200.91226" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_ernests_gulbis">
+            ernests gulbis
+        </text>
+        <text font-size="41" x="-723.00073" y="695.9909" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_roberto_bautista_agut">
+            roberto bautist...
+        </text>
+        <text font-size="30" x="-838.95654" y="572.737" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_tomas_berdych">
+            tomas berdych
+        </text>
+        <text font-size="28" x="321.53348" y="767.7444" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_david_wright">
+            david wright
+        </text>
+        <text font-size="28" x="173.86453" y="833.6611" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_jackie_bradley_jr">
+            jackie bradley jr
+        </text>
+        <text font-size="28" x="-17.035828" y="686.90405" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_rusney_castillo">
+            rusney castillo
+        </text>
+        <text font-size="28" x="299.70224" y="590.008" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_shawn_armstrong">
+            shawn armstrong
+        </text>
+        <text font-size="28" x="161.04475" y="673.0361" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_terry_collins">
+            terry collins
+        </text>
+        <text font-size="20" x="-189.02475" y="131.16965" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_denise_aberle">
+            denise aberle
+        </text>
+        <text font-size="20" x="189.7288" y="993.2429" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_dilma_rousseff">
+            dilma rousseff
+        </text>
+        <text font-size="20" x="343.4935" y="941.9167" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_michel_temer">
+            michel temer
+        </text>
+        <text font-size="23" x="-5.140638" y="-495.0822" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_gary_johnson">
+            gary johnson
+        </text>
+        <text font-size="23" x="-48.842564" y="15.345496" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_george_w_bush">
+            george w bush
+        </text>
+        <text font-size="25" x="179.05826" y="270.9706" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_gonzalo_curiel">
+            gonzalo curiel
+        </text>
+        <text font-size="20" x="185.95871" y="439.3595" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_jeff_horwitz">
+            jeff horwitz
+        </text>
+        <text font-size="20" x="334.72443" y="404.40503" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_jill_colvin">
+            jill colvin
+        </text>
+        <text font-size="23" x="489.15265" y="343.34723" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_jill_martin">
+            jill martin
+        </text>
+        <text font-size="20" x="518.79596" y="175.79247" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_john_mccain">
+            john mccain
+        </text>
+        <text font-size="23" x="153.81172" y="-360.7928" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_marco_rubio">
+            marco rubio
+        </text>
+        <text font-size="23" x="71.89887" y="137.37651" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_mitt_romney">
+            mitt romney
+        </text>
+        <text font-size="20" x="347.6354" y="235.25508" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_paul_ryan">
+            paul ryan
+        </text>
+        <text font-size="23" x="290.5876" y="-74.8467" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_rodong_sinmun">
+            rodong sinmun
+        </text>
+        <text font-size="23" x="0.13250059" y="-329.52634" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_ted_cruz">
+            ted cruz
+        </text>
+        <text font-size="20" x="234.29086" y="-221.45918" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_tom_llamas">
+            tom llamas
+        </text>
+        <text font-size="20" x="-766.51324" y="-637.2007" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_dow_jones_factiva">
+            dow jones factiva
+        </text>
+        <text font-size="20" x="-656.9874" y="-749.0613" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_gothenburg_bancshares">
+            gothenburg banc...
+        </text>
+        <text font-size="30" x="-499.57513" y="503.00085" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_madison_keys">
+            madison keys
+        </text>
+        <text font-size="25" x="990.09204" y="126.46004" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_emily_blunt">
+            emily blunt
+        </text>
+        <text font-size="20" x="687.7967" y="86.58978" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_julie_andrews">
+            julie andrews
+        </text>
+        <text font-size="23" x="963.2813" y="283.67224" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_lin-manuel_miranda">
+            lin-manuel mira...
+        </text>
+        <text font-size="23" x="839.3119" y="10.717466" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_michael_banks">
+            michael banks
+        </text>
+        <text font-size="20" x="619.2999" y="789.9563" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_ferdinand_marcos">
+            ferdinand marcos
+        </text>
+        <text font-size="20" x="-598.5122" y="826.865" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_gail_myers">
+            gail myers
+        </text>
+        <text font-size="20" x="-436.78152" y="912.08374" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_thane_maynard">
+            thane maynard
+        </text>
+        <text font-size="20" x="-983.4389" y="-222.09605" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_hulk_hogan">
+            hulk hogan
+        </text>
+        <text font-size="23" x="-841.7459" y="-149.85916" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_peter_thiel">
+            peter thiel
+        </text>
+        <text font-size="20" x="-857.6551" y="-511.35065" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_hunter_tootoo">
+            hunter tootoo
+        </text>
+        <text font-size="20" x="-596.807" y="-579.93774" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_justin_trudeau">
+            justin trudeau
+        </text>
+        <text font-size="20" x="-922.9757" y="-369.79822" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_jeff_bezos">
+            jeff bezos
+        </text>
+        <text font-size="23" x="788.7524" y="538.99133" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_shaker_kelada">
+            shaker kelada
+        </text>
+        <text font-size="20" x="485.60712" y="876.97577" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_louis_armstrong">
+            louis armstrong
+        </text>
+        <text font-size="20" x="462.42905" y="696.897" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_terry_teachout">
+            terry teachout
+        </text>
+        <text font-size="20" x="-145.43155" y="819.56036" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_mike_hubbard">
+            mike hubbard
+        </text>
+        <text font-size="20" x="13.835304" y="845.55975" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_robert_bentley">
+            robert bentley
+        </text>
+        <text font-size="23" x="-172.32463" y="-807.10913" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_raghuram_rajan">
+            raghuram rajan
+        </text>
+        <text font-size="20" x="-91.093895" y="-990.64557" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_subramanian_swamy">
+            subramanian swamy
+        </text>
+        <text font-size="20" x="-699.7595" y="-450.58255" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_rahul_gandhi">
+            rahul gandhi
+        </text>
+        <text font-size="20" x="-770.29974" y="-299.65585" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_sonia_gandhi">
+            sonia gandhi
+        </text>
+        <text font-size="20" x="-688.973" y="-113.06367" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_tsvetana_pironkova">
+            tsvetana pironk...
+        </text>
+    </g>
+</svg>
